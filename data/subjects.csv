@@ -1,0 +1,21 @@
+subject_name,department,level,subject_id
+Mathematics,Sciences,Junior,1
+English,Arts,Junior,2
+Basic Sciences,Sciences,Junior,3
+Vocational Studies,Vocational,Junior,4
+Literature,Arts,Junior,5
+History,Arts,Junior,6
+French,Arts,Junior,7
+Physical Education,Vocational,Junior,8
+CRS,Arts,Junior,9
+Agricultural Science,Sciences,Junior,10
+Mathematics,Sciences,Senior,11
+English,Arts,Senior,12
+Literature,Arts,Senior,13
+Agricultural Science,Sciences,Senior,14
+Biology,Sciences,Senior,15
+Physics,Sciences,Senior,16
+Chemistry,Sciences,Senior,17
+Government,Arts,Senior,18
+Economics,Social Studies,Senior,19
+Geography,Sciences,Senior,20

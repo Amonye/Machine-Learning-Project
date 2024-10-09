@@ -1,0 +1,601 @@
+record_id,student_id,first_name,last_name,parent_id,class_id,gender,date_of_birth,date_enrolled,is_repeating,age,street_address,city,start_date,end_date,is_current
+359,1359,Ifeanyi,Danladi,154,8,Female,2014-04-24,2024-02-12,True,10,84062 Mason Pine,Ughelli,2024-10-08,,Yes
+289,1289,Ibrahim,Nnamdi,287,6,Male,2008-06-20,2024-02-11,True,16,986 Mercer Street,Sapele,2024-10-08,,Yes
+223,1223,Bola,Bello,453,5,Female,2014-07-18,2024-02-09,True,10,7947 Cook Mission Apt. 516,Ughelli,2024-10-08,,Yes
+378,1378,Ngozi,Nnamdi,554,8,Male,2009-08-07,2024-02-08,True,15,3915 Lane Knolls,Oghara,2024-10-08,,Yes
+31,1031,Ngozi,Abdullahi,209,1,Male,2014-07-08,2024-02-15,True,10,52651 Amy Ports,Ughelli,2024-10-08,,Yes
+82,1082,Ahmed,Bello,372,2,Female,2014-04-29,2024-02-11,True,10,7947 Cook Mission Apt. 516,Ozoro,2024-10-08,,Yes
+38,1038,Ahmed,Nnamdi,390,1,Male,2010-11-03,2024-02-11,True,14,42656 Justin Heights Suite 611,Oleh,2024-10-08,,Yes
+89,1089,Ahmed,Danladi,197,2,Male,2012-05-28,2024-02-07,True,12,4354 Amanda Parkway,Ughelli,2024-10-08,,Yes
+72,1072,Ifeanyi,Eze,462,2,Male,2012-08-17,2024-02-16,True,12,5550 Smith Alley Suite 852,Koko,2024-10-08,,Yes
+318,1318,Chinaza,Bello,158,7,Male,2014-06-30,2024-02-14,True,10,8708 Adkins Springs,Abraka,2024-10-08,,Yes
+446,1446,Kemi,Adeyemi,569,9,Female,2009-05-16,2024-02-20,True,15,9610 Torres Way Apt. 377,Koko,2024-10-08,,Yes
+391,1391,Ifeanyi,Abimbola,448,8,Male,2013-07-04,2024-02-07,True,11,141 Greer Village,Oghara,2024-10-08,,Yes
+60,1060,Adebayo,Okeke,332,2,Female,2007-10-31,2024-02-15,True,17,110 Simpson Motorway Apt. 894,Agbor,2024-10-08,,Yes
+568,1568,Kemi,Olawale,251,12,Male,2013-02-12,2024-02-16,True,11,06635 Helen Cliffs Suite 928,Abraka,2024-10-08,,Yes
+277,1277,Ahmed,Bello,483,6,Female,2009-07-20,2024-02-13,True,15,7947 Cook Mission Apt. 516,Asaba,2024-10-08,,Yes
+563,1563,Chinaza,Eze,524,12,Female,2009-12-22,2024-02-12,True,15,9483 Andrew Mission Suite 812,Ozoro,2024-10-08,,Yes
+265,1265,Chinaza,Eze,172,6,Male,2011-09-18,2024-02-15,True,13,845 Casey Alley,Abraka,2024-10-08,,Yes
+308,1308,Ifeanyi,Okeke,581,7,Male,2011-02-20,2024-02-16,True,13,5550 Smith Alley Suite 852,Burutu,2024-10-08,,Yes
+143,1143,Ibrahim,Abimbola,277,3,Female,2011-12-25,2024-02-07,False,13,7947 Cook Mission Apt. 516,Koko,2024-10-08,,Yes
+505,1505,Kemi,Abdullahi,389,11,Male,2007-12-31,2024-02-12,False,17,86689 Cole Orchard,Abraka,2024-10-08,,Yes
+516,1516,Chinedu,Nnamdi,241,11,Female,2011-12-07,2024-02-12,False,13,7746 Martin Key,Ughelli,2024-10-08,,Yes
+70,1070,Ngozi,Adeyemi,169,2,Female,2012-03-13,2024-02-19,False,12,841 Derek Manors Suite 743,Ughelli,2024-10-08,,Yes
+23,1023,Bola,Okeke,404,1,Male,2007-11-28,2024-02-11,False,17,86689 Cole Orchard,Warri,2024-10-08,,Yes
+130,1130,Bola,Nnamdi,154,3,Female,2012-05-31,2024-02-13,False,12,34692 Heather Greens Suite 181,Sapele,2024-10-08,,Yes
+270,1270,Kemi,Abdullahi,221,6,Female,2011-03-26,2024-02-17,False,13,110 Simpson Motorway Apt. 894,Warri,2024-10-08,,Yes
+434,1434,Adebayo,Olawale,314,9,Male,2011-07-01,2024-02-16,False,13,42656 Justin Heights Suite 611,Warri,2024-10-08,,Yes
+5,1005,Chinedu,Adeyemi,283,1,Male,2008-01-23,2024-02-12,False,16,84062 Mason Pine,Patani,2024-10-08,,Yes
+531,1531,Obinna,Adeyemi,192,11,Female,2014-06-07,2024-02-18,False,10,551 Sarah Courts,Warri,2024-10-08,,Yes
+67,1067,Bola,Eze,316,2,Female,2012-04-12,2024-02-13,False,12,06635 Helen Cliffs Suite 928,Ughelli,2024-10-08,,Yes
+392,1392,Adebayo,Abdullahi,110,8,Male,2011-10-25,2024-02-19,False,13,9088 Shelly Manor Suite 704,Oghara,2024-10-08,,Yes
+102,1102,Ngozi,Danladi,325,3,Male,2009-07-10,2024-02-19,False,15,72854 Rhodes Burg Suite 646,Ughelli,2024-10-08,,Yes
+144,1144,Obinna,Nnamdi,486,3,Male,2013-08-20,2024-02-11,False,11,986 Mercer Street,Ughelli,2024-10-08,,Yes
+226,1226,Kemi,Olawale,272,5,Female,2009-08-19,2024-02-09,False,15,63052 Griffith Ferry Apt. 307,Burutu,2024-10-08,,Yes
+264,1264,Ngozi,Adeyemi,371,6,Female,2009-02-07,2024-02-08,False,15,1495 Rodgers Lake,Burutu,2024-10-08,,Yes
+125,1125,Ibrahim,Abdullahi,173,3,Female,2010-07-11,2024-02-19,False,14,551 Sarah Courts,Sapele,2024-10-08,,Yes
+232,1232,Chinaza,Abdullahi,422,5,Male,2012-11-01,2024-02-20,False,12,31070 Brown Harbor,Patani,2024-10-08,,Yes
+471,1471,Ifeanyi,Nnamdi,570,10,Male,2011-10-29,2024-02-10,False,13,84062 Mason Pine,Sapele,2024-10-08,,Yes
+62,1062,Kemi,Abimbola,103,2,Female,2014-06-30,2024-02-09,False,10,986 Mercer Street,Abraka,2024-10-08,,Yes
+554,1554,Bola,Danladi,404,12,Female,2014-09-16,2024-02-07,False,10,57510 Ryan Plaza Apt. 485,Burutu,2024-10-08,,Yes
+155,1155,Bola,Olawale,367,4,Female,2008-01-22,2024-02-08,False,16,9610 Torres Way Apt. 377,Ughelli,2024-10-08,,Yes
+372,1372,Bola,Eze,233,8,Female,2009-02-11,2024-02-09,False,15,49690 Romero Vista Apt. 545,Ughelli,2024-10-08,,Yes
+517,1517,Bola,Eze,299,11,Female,2013-08-03,2024-02-16,False,11,9610 Torres Way Apt. 377,Oleh,2024-10-08,,Yes
+401,1401,Adebayo,Bello,168,9,Male,2007-10-28,2024-02-09,False,17,57510 Ryan Plaza Apt. 485,Abraka,2024-10-08,,Yes
+49,1049,Obinna,Adeyemi,351,1,Male,2009-03-03,2024-02-08,False,15,5550 Smith Alley Suite 852,Ughelli,2024-10-08,,Yes
+216,1216,Adebayo,Adeyemi,507,5,Female,2010-03-07,2024-02-11,False,14,9610 Torres Way Apt. 377,Ughelli,2024-10-08,,Yes
+383,1383,Bola,Abdullahi,129,8,Male,2009-09-19,2024-02-08,False,15,3915 Lane Knolls,Ozoro,2024-10-08,,Yes
+450,1450,Obinna,Nnamdi,424,9,Male,2011-01-02,2024-02-15,False,13,4354 Amanda Parkway,Asaba,2024-10-08,,Yes
+204,1204,Chinedu,Abdullahi,509,5,Male,2012-02-23,2024-02-16,False,12,64919 Brittany Mews Suite 624,Patani,2024-10-08,,Yes
+169,1169,Chinedu,Adeyemi,298,4,Male,2009-09-09,2024-02-07,False,15,45643 Wilson Ferry,Sapele,2024-10-08,,Yes
+178,1178,Bola,Bello,398,4,Male,2013-09-23,2024-02-17,False,11,92652 Stewart Ports,Ughelli,2024-10-08,,Yes
+315,1315,Ifeanyi,Bello,305,7,Female,2010-09-25,2024-02-18,False,14,7947 Cook Mission Apt. 516,Koko,2024-10-08,,Yes
+600,1600,Ibrahim,Olawale,262,12,Female,2013-06-24,2024-02-12,False,11,845 Casey Alley,Agbor,2024-10-08,,Yes
+68,1068,Ifeanyi,Abdullahi,597,2,Male,2014-09-01,2024-02-15,False,10,841 Derek Manors Suite 743,Warri,2024-10-08,,Yes
+150,1150,Ibrahim,Bello,201,3,Female,2012-08-19,2024-02-12,False,12,9483 Andrew Mission Suite 812,Asaba,2024-10-08,,Yes
+400,1400,Kemi,Abdullahi,423,8,Male,2010-08-23,2024-02-18,False,14,57510 Ryan Plaza Apt. 485,Oghara,2024-10-08,,Yes
+371,1371,Ifeanyi,Adeyemi,455,8,Male,2013-11-09,2024-02-12,False,11,7911 Lyons Pines,Agbor,2024-10-08,,Yes
+29,1029,Chinedu,Abdullahi,526,1,Male,2010-11-26,2024-02-08,False,14,52651 Amy Ports,Oghara,2024-10-08,,Yes
+298,1298,Adebayo,Olawale,400,6,Female,2012-01-07,2024-02-16,False,12,982 Brandon Village,Warri,2024-10-08,,Yes
+156,1156,Chinaza,Bello,354,4,Male,2010-01-31,2024-02-12,False,14,45029 David Glens Apt. 736,Agbor,2024-10-08,,Yes
+539,1539,Ibrahim,Abdullahi,306,11,Male,2009-08-10,2024-02-08,False,15,34692 Heather Greens Suite 181,Koko,2024-10-08,,Yes
+486,1486,Chinaza,Adeyemi,363,10,Male,2012-03-21,2024-02-18,False,12,48268 Thomas Stravenue Apt. 974,Burutu,2024-10-08,,Yes
+106,1106,Ahmed,Abimbola,337,3,Male,2013-02-17,2024-02-19,False,11,356 Martinez Forge,Sapele,2024-10-08,,Yes
+88,1088,Adebayo,Abimbola,326,2,Male,2014-08-17,2024-02-16,False,10,839 Sheppard Isle Suite 665,Abraka,2024-10-08,,Yes
+229,1229,Bola,Olawale,451,5,Female,2013-10-16,2024-02-12,False,11,4793 Mark Unions Suite 964,Abraka,2024-10-08,,Yes
+581,1581,Kemi,Nnamdi,382,12,Male,2013-08-06,2024-02-10,False,11,49690 Romero Vista Apt. 545,Abraka,2024-10-08,,Yes
+162,1162,Chinedu,Abimbola,101,4,Male,2010-09-22,2024-02-15,False,14,64919 Brittany Mews Suite 624,Ughelli,2024-10-08,,Yes
+398,1398,Obinna,Danladi,482,8,Female,2009-12-12,2024-02-10,False,15,551 Sarah Courts,Ughelli,2024-10-08,,Yes
+16,1016,Ifeanyi,Abdullahi,440,1,Male,2012-08-27,2024-02-11,False,12,45029 David Glens Apt. 736,Ughelli,2024-10-08,,Yes
+300,1300,Adebayo,Bello,528,6,Female,2009-11-01,2024-02-14,False,15,208 John Drive Suite 314,Warri,2024-10-08,,Yes
+214,1214,Adebayo,Adeyemi,578,5,Male,2009-12-17,2024-02-12,False,15,7746 Martin Key,Sapele,2024-10-08,,Yes
+547,1547,Kemi,Olawale,124,11,Male,2012-03-21,2024-02-16,False,12,31070 Brown Harbor,Burutu,2024-10-08,,Yes
+207,1207,Adebayo,Okeke,245,5,Male,2013-12-16,2024-02-10,False,11,39310 Garcia Hill Apt. 435,Ughelli,2024-10-08,,Yes
+403,1403,Kemi,Bello,375,9,Male,2010-04-07,2024-02-10,False,14,45029 David Glens Apt. 736,Warri,2024-10-08,,Yes
+19,1019,Obinna,Abimbola,184,1,Male,2014-04-18,2024-02-12,False,10,9088 Shelly Manor Suite 704,Patani,2024-10-08,,Yes
+158,1158,Ifeanyi,Abdullahi,340,4,Female,2014-05-18,2024-02-15,False,10,9610 Torres Way Apt. 377,Oleh,2024-10-08,,Yes
+523,1523,Ibrahim,Bello,435,11,Male,2007-10-10,2024-02-19,False,17,9088 Shelly Manor Suite 704,Ozoro,2024-10-08,,Yes
+105,1105,Ahmed,Eze,250,3,Female,2011-04-19,2024-02-20,False,13,92652 Stewart Ports,Agbor,2024-10-08,,Yes
+423,1423,Adebayo,Eze,375,9,Female,2010-02-28,2024-02-13,False,14,845 Casey Alley,Ozoro,2024-10-08,,Yes
+349,1349,Ifeanyi,Okeke,467,7,Female,2009-06-28,2024-02-10,False,15,3915 Lane Knolls,Patani,2024-10-08,,Yes
+588,1588,Chinedu,Okeke,356,12,Male,2010-11-21,2024-02-11,False,14,208 John Drive Suite 314,Burutu,2024-10-08,,Yes
+252,1252,Chinaza,Okeke,209,6,Female,2009-03-14,2024-02-13,False,15,986 Mercer Street,Burutu,2024-10-08,,Yes
+50,1050,Ngozi,Okeke,565,1,Female,2013-06-06,2024-02-17,False,11,57510 Ryan Plaza Apt. 485,Oleh,2024-10-08,,Yes
+473,1473,Bola,Nnamdi,563,10,Female,2013-10-10,2024-02-20,False,11,34692 Heather Greens Suite 181,Abraka,2024-10-08,,Yes
+327,1327,Ibrahim,Eze,144,7,Female,2013-04-21,2024-02-13,False,11,06635 Helen Cliffs Suite 928,Ughelli,2024-10-08,,Yes
+35,1035,Ifeanyi,Danladi,240,1,Female,2013-11-27,2024-02-18,False,11,986 Mercer Street,Ozoro,2024-10-08,,Yes
+561,1561,Ibrahim,Danladi,290,12,Female,2011-02-24,2024-02-14,False,13,97238 Gonzales Green,Oghara,2024-10-08,,Yes
+332,1332,Ahmed,Danladi,132,7,Female,2013-06-23,2024-02-18,False,11,4354 Amanda Parkway,Asaba,2024-10-08,,Yes
+462,1462,Bola,Olawale,428,10,Male,2009-01-04,2024-02-11,False,15,429 Walker Loaf Apt. 643,Abraka,2024-10-08,,Yes
+594,1594,Ahmed,Danladi,286,12,Female,2009-03-21,2024-02-08,False,15,80899 Rachel Mission Apt. 927,Oghara,2024-10-08,,Yes
+83,1083,Ibrahim,Adeyemi,487,2,Female,2013-11-07,2024-02-10,False,11,845 Casey Alley,Agbor,2024-10-08,,Yes
+355,1355,Obinna,Nnamdi,568,8,Female,2009-08-30,2024-02-08,False,15,42656 Justin Heights Suite 611,Sapele,2024-10-08,,Yes
+276,1276,Chinaza,Abdullahi,475,6,Female,2009-04-25,2024-02-07,False,15,110 Simpson Motorway Apt. 894,Ughelli,2024-10-08,,Yes
+373,1373,Ahmed,Abimbola,197,8,Male,2011-09-19,2024-02-18,False,13,208 John Drive Suite 314,Ozoro,2024-10-08,,Yes
+593,1593,Kemi,Olawale,371,12,Male,2012-01-13,2024-02-20,False,12,8708 Adkins Springs,Agbor,2024-10-08,,Yes
+79,1079,Bola,Okeke,555,2,Female,2014-05-06,2024-02-20,False,10,64919 Brittany Mews Suite 624,Oghara,2024-10-08,,Yes
+201,1201,Adebayo,Olawale,448,5,Female,2008-06-21,2024-02-09,False,16,841 Derek Manors Suite 743,Koko,2024-10-08,,Yes
+266,1266,Obinna,Adeyemi,521,6,Female,2012-06-06,2024-02-15,False,12,80899 Rachel Mission Apt. 927,Ughelli,2024-10-08,,Yes
+92,1092,Obinna,Abimbola,438,2,Female,2013-10-29,2024-02-08,False,11,63052 Griffith Ferry Apt. 307,Abraka,2024-10-08,,Yes
+173,1173,Ifeanyi,Abimbola,422,4,Female,2008-09-16,2024-02-15,False,16,52651 Amy Ports,Koko,2024-10-08,,Yes
+140,1140,Ahmed,Eze,302,3,Male,2014-08-29,2024-02-13,False,10,8708 Adkins Springs,Burutu,2024-10-08,,Yes
+387,1387,Adebayo,Olawale,159,8,Male,2009-07-22,2024-02-11,False,15,551 Sarah Courts,Patani,2024-10-08,,Yes
+501,1501,Bola,Okeke,565,11,Female,2007-11-01,2024-02-17,False,17,866 Schultz Port Suite 781,Ughelli,2024-10-08,,Yes
+288,1288,Chinedu,Eze,227,6,Male,2009-09-19,2024-02-07,False,15,28290 Glover Valley Apt. 282,Asaba,2024-10-08,,Yes
+421,1421,Bola,Bello,316,9,Female,2012-05-20,2024-02-13,False,12,141 Greer Village,Oghara,2024-10-08,,Yes
+451,1451,Obinna,Bello,213,10,Male,2008-08-02,2024-02-17,False,16,110 Simpson Motorway Apt. 894,Asaba,2024-10-08,,Yes
+114,1114,Obinna,Danladi,423,3,Female,2011-05-27,2024-02-08,False,13,9088 Shelly Manor Suite 704,Ughelli,2024-10-08,,Yes
+33,1033,Ahmed,Eze,198,1,Male,2012-08-06,2024-02-19,False,12,49690 Romero Vista Apt. 545,Ughelli,2024-10-08,,Yes
+584,1584,Bola,Eze,577,12,Male,2012-05-06,2024-02-11,False,12,822 Susan Trace Suite 988,Warri,2024-10-08,,Yes
+370,1370,Adebayo,Bello,516,8,Female,2010-12-07,2024-02-10,False,14,63052 Griffith Ferry Apt. 307,Agbor,2024-10-08,,Yes
+228,1228,Bola,Adeyemi,361,5,Female,2009-03-12,2024-02-19,False,15,80899 Rachel Mission Apt. 927,Burutu,2024-10-08,,Yes
+25,1025,Kemi,Bello,354,1,Female,2009-12-07,2024-02-12,False,15,72854 Rhodes Burg Suite 646,Koko,2024-10-08,,Yes
+12,1012,Chinedu,Okeke,134,1,Female,2010-08-08,2024-02-19,False,14,03578 Reese Trafficway Apt. 662,Ughelli,2024-10-08,,Yes
+545,1545,Bola,Bello,218,11,Male,2008-11-12,2024-02-20,False,16,8708 Adkins Springs,Warri,2024-10-08,,Yes
+190,1190,Bola,Olawale,479,4,Male,2008-11-19,2024-02-16,False,16,39310 Garcia Hill Apt. 435,Ughelli,2024-10-08,,Yes
+167,1167,Obinna,Adeyemi,155,4,Male,2011-03-31,2024-02-13,False,13,4793 Mark Unions Suite 964,Sapele,2024-10-08,,Yes
+238,1238,Adebayo,Okeke,425,5,Male,2009-08-10,2024-02-18,False,15,982 Brandon Village,Ughelli,2024-10-08,,Yes
+124,1124,Ibrahim,Okeke,597,3,Female,2013-08-09,2024-02-09,False,11,45643 Wilson Ferry,Oleh,2024-10-08,,Yes
+410,1410,Ahmed,Bello,356,9,Male,2011-09-09,2024-02-20,False,13,8708 Adkins Springs,Ozoro,2024-10-08,,Yes
+184,1184,Ifeanyi,Eze,260,4,Male,2012-06-19,2024-02-19,False,12,4793 Mark Unions Suite 964,Ughelli,2024-10-08,,Yes
+22,1022,Ahmed,Bello,124,1,Female,2013-09-03,2024-02-18,False,11,8708 Adkins Springs,Ozoro,2024-10-08,,Yes
+189,1189,Ibrahim,Olawale,440,4,Male,2010-01-14,2024-02-11,False,14,03578 Reese Trafficway Apt. 662,Ughelli,2024-10-08,,Yes
+262,1262,Ibrahim,Danladi,284,6,Male,2009-11-18,2024-02-11,False,15,822 Susan Trace Suite 988,Ughelli,2024-10-08,,Yes
+579,1579,Ngozi,Bello,316,12,Female,2011-12-25,2024-02-07,False,13,208 John Drive Suite 314,Oleh,2024-10-08,,Yes
+263,1263,Ahmed,Nnamdi,570,6,Male,2008-12-24,2024-02-17,False,16,986 Mercer Street,Sapele,2024-10-08,,Yes
+80,1080,Chinaza,Abimbola,516,2,Female,2014-04-23,2024-02-16,False,10,34692 Heather Greens Suite 181,Agbor,2024-10-08,,Yes
+149,1149,Bola,Olawale,467,3,Female,2009-03-08,2024-02-11,False,15,141 Greer Village,Ughelli,2024-10-08,,Yes
+141,1141,Chinaza,Danladi,541,3,Female,2012-02-11,2024-02-15,False,12,866 Schultz Port Suite 781,Patani,2024-10-08,,Yes
+538,1538,Ahmed,Eze,530,11,Female,2013-09-30,2024-02-14,False,11,9610 Torres Way Apt. 377,Burutu,2024-10-08,,Yes
+234,1234,Chinedu,Nnamdi,353,5,Female,2009-08-21,2024-02-15,False,15,06635 Helen Cliffs Suite 928,Abraka,2024-10-08,,Yes
+30,1030,Bola,Okeke,513,1,Male,2009-09-05,2024-02-16,False,15,49690 Romero Vista Apt. 545,Warri,2024-10-08,,Yes
+171,1171,Kemi,Danladi,111,4,Male,2014-09-12,2024-02-11,False,10,5550 Smith Alley Suite 852,Oghara,2024-10-08,,Yes
+455,1455,Chinedu,Olawale,549,10,Female,2010-05-05,2024-02-10,False,14,39310 Garcia Hill Apt. 435,Oleh,2024-10-08,,Yes
+84,1084,Chinedu,Nnamdi,305,2,Female,2014-05-03,2024-02-17,False,10,208 John Drive Suite 314,Koko,2024-10-08,,Yes
+28,1028,Ngozi,Okeke,151,1,Male,2011-07-29,2024-02-08,False,13,42656 Justin Heights Suite 611,Patani,2024-10-08,,Yes
+485,1485,Adebayo,Olawale,248,10,Male,2012-11-17,2024-02-11,False,12,8708 Adkins Springs,Ozoro,2024-10-08,,Yes
+566,1566,Bola,Olawale,206,12,Male,2011-12-28,2024-02-14,False,13,5550 Smith Alley Suite 852,Oghara,2024-10-08,,Yes
+48,1048,Ngozi,Abimbola,148,1,Female,2013-10-03,2024-02-07,False,11,72854 Rhodes Burg Suite 646,Ozoro,2024-10-08,,Yes
+596,1596,Chinaza,Abdullahi,228,12,Male,2011-06-19,2024-02-19,False,13,31070 Brown Harbor,Ughelli,2024-10-08,,Yes
+103,1103,Chinedu,Eze,153,3,Female,2013-10-08,2024-02-17,False,11,63052 Griffith Ferry Apt. 307,Agbor,2024-10-08,,Yes
+337,1337,Adebayo,Danladi,483,7,Male,2009-12-24,2024-02-16,False,15,77892 Turner Mountain,Abraka,2024-10-08,,Yes
+61,1061,Chinaza,Bello,203,2,Male,2013-05-03,2024-02-07,False,11,4793 Mark Unions Suite 964,Oghara,2024-10-08,,Yes
+280,1280,Chinaza,Okeke,163,6,Female,2013-01-05,2024-02-10,False,11,9483 Andrew Mission Suite 812,Burutu,2024-10-08,,Yes
+136,1136,Chinaza,Bello,217,3,Female,2011-03-31,2024-02-20,False,13,48268 Thomas Stravenue Apt. 974,Warri,2024-10-08,,Yes
+166,1166,Ibrahim,Abdullahi,545,4,Male,2012-12-02,2024-02-15,False,12,28290 Glover Valley Apt. 282,Patani,2024-10-08,,Yes
+352,1352,Ahmed,Danladi,470,8,Female,2011-12-15,2024-02-13,False,13,48268 Thomas Stravenue Apt. 974,Patani,2024-10-08,,Yes
+589,1589,Adebayo,Bello,128,12,Male,2013-02-12,2024-02-19,False,11,982 Brandon Village,Ughelli,2024-10-08,,Yes
+394,1394,Ahmed,Eze,332,8,Male,2010-01-09,2024-02-17,False,14,866 Schultz Port Suite 781,Oleh,2024-10-08,,Yes
+474,1474,Ahmed,Okeke,146,10,Female,2013-02-24,2024-02-11,False,11,429 Walker Loaf Apt. 643,Burutu,2024-10-08,,Yes
+324,1324,Chinaza,Danladi,537,7,Female,2008-06-24,2024-02-10,False,16,866 Schultz Port Suite 781,Koko,2024-10-08,,Yes
+459,1459,Chinaza,Eze,404,10,Female,2010-08-15,2024-02-17,False,14,4354 Amanda Parkway,Ughelli,2024-10-08,,Yes
+176,1176,Adebayo,Danladi,254,4,Female,2011-11-24,2024-02-15,False,13,80899 Rachel Mission Apt. 927,Oleh,2024-10-08,,Yes
+384,1384,Ahmed,Danladi,406,8,Female,2008-08-02,2024-02-19,False,16,4793 Mark Unions Suite 964,Oleh,2024-10-08,,Yes
+420,1420,Ahmed,Eze,334,9,Male,2011-03-30,2024-02-10,False,13,31070 Brown Harbor,Koko,2024-10-08,,Yes
+388,1388,Chinedu,Abimbola,136,8,Male,2014-06-29,2024-02-07,False,10,845 Casey Alley,Oleh,2024-10-08,,Yes
+339,1339,Bola,Olawale,296,7,Male,2011-11-22,2024-02-13,False,13,06635 Helen Cliffs Suite 928,Asaba,2024-10-08,,Yes
+174,1174,Chinaza,Olawale,314,4,Male,2012-10-07,2024-02-18,False,12,9610 Torres Way Apt. 377,Koko,2024-10-08,,Yes
+586,1586,Ibrahim,Okeke,116,12,Male,2010-02-16,2024-02-17,False,14,80899 Rachel Mission Apt. 927,Warri,2024-10-08,,Yes
+379,1379,Obinna,Eze,573,8,Female,2013-10-21,2024-02-11,False,11,9610 Torres Way Apt. 377,Oleh,2024-10-08,,Yes
+74,1074,Chinedu,Olawale,448,2,Male,2010-11-30,2024-02-20,False,14,551 Sarah Courts,Sapele,2024-10-08,,Yes
+562,1562,Chinedu,Eze,589,12,Male,2009-04-05,2024-02-17,False,15,5550 Smith Alley Suite 852,Oleh,2024-10-08,,Yes
+51,1051,Obinna,Eze,514,2,Female,2010-12-03,2024-02-12,False,14,42656 Justin Heights Suite 611,Oleh,2024-10-08,,Yes
+452,1452,Chinaza,Abdullahi,264,10,Female,2008-08-15,2024-02-18,False,16,822 Susan Trace Suite 988,Ughelli,2024-10-08,,Yes
+161,1161,Ngozi,Eze,155,4,Male,2011-11-25,2024-02-18,False,13,63052 Griffith Ferry Apt. 307,Sapele,2024-10-08,,Yes
+386,1386,Ngozi,Danladi,185,8,Male,2013-02-12,2024-02-08,False,11,39310 Garcia Hill Apt. 435,Patani,2024-10-08,,Yes
+382,1382,Ngozi,Abdullahi,477,8,Female,2011-04-22,2024-02-19,False,13,551 Sarah Courts,Oghara,2024-10-08,,Yes
+405,1405,Chinedu,Olawale,124,9,Male,2014-07-31,2024-02-15,False,10,982 Brandon Village,Burutu,2024-10-08,,Yes
+218,1218,Chinedu,Okeke,118,5,Female,2012-01-03,2024-02-08,False,12,866 Schultz Port Suite 781,Agbor,2024-10-08,,Yes
+199,1199,Kemi,Nnamdi,184,4,Male,2008-12-01,2024-02-15,False,16,429 Walker Loaf Apt. 643,Koko,2024-10-08,,Yes
+43,1043,Ahmed,Nnamdi,567,1,Male,2009-04-18,2024-02-16,False,15,80899 Rachel Mission Apt. 927,Koko,2024-10-08,,Yes
+295,1295,Ibrahim,Bello,250,6,Female,2012-09-12,2024-02-14,False,12,5550 Smith Alley Suite 852,Warri,2024-10-08,,Yes
+309,1309,Ngozi,Nnamdi,390,7,Female,2009-03-17,2024-02-13,False,15,64919 Brittany Mews Suite 624,Warri,2024-10-08,,Yes
+529,1529,Kemi,Nnamdi,501,11,Male,2011-03-03,2024-02-15,False,13,208 John Drive Suite 314,Ughelli,2024-10-08,,Yes
+168,1168,Bola,Bello,446,4,Female,2010-12-22,2024-02-18,False,14,3915 Lane Knolls,Ozoro,2024-10-08,,Yes
+157,1157,Ifeanyi,Abimbola,206,4,Female,2008-11-10,2024-02-13,False,16,7911 Lyons Pines,Sapele,2024-10-08,,Yes
+419,1419,Ibrahim,Bello,381,9,Female,2013-09-05,2024-02-20,False,11,5550 Smith Alley Suite 852,Koko,2024-10-08,,Yes
+274,1274,Ibrahim,Okeke,455,6,Female,2014-08-19,2024-02-18,False,10,9088 Shelly Manor Suite 704,Ozoro,2024-10-08,,Yes
+267,1267,Kemi,Nnamdi,202,6,Female,2011-08-16,2024-02-12,False,13,84062 Mason Pine,Sapele,2024-10-08,,Yes
+365,1365,Ahmed,Abdullahi,218,8,Male,2009-09-22,2024-02-16,False,15,9088 Shelly Manor Suite 704,Agbor,2024-10-08,,Yes
+100,1100,Chinaza,Danladi,359,2,Male,2007-10-18,2024-02-17,False,17,4354 Amanda Parkway,Asaba,2024-10-08,,Yes
+404,1404,Adebayo,Olawale,352,9,Male,2013-10-02,2024-02-17,False,11,97238 Gonzales Green,Ozoro,2024-10-08,,Yes
+357,1357,Obinna,Abimbola,283,8,Male,2008-04-23,2024-02-14,False,16,06635 Helen Cliffs Suite 928,Sapele,2024-10-08,,Yes
+119,1119,Obinna,Eze,514,3,Male,2013-04-14,2024-02-07,False,11,63052 Griffith Ferry Apt. 307,Warri,2024-10-08,,Yes
+395,1395,Ngozi,Nnamdi,235,8,Female,2010-12-21,2024-02-19,False,14,03578 Reese Trafficway Apt. 662,Patani,2024-10-08,,Yes
+21,1021,Ibrahim,Olawale,135,1,Female,2008-01-16,2024-02-20,False,16,7911 Lyons Pines,Asaba,2024-10-08,,Yes
+360,1360,Chinaza,Danladi,168,8,Female,2014-03-29,2024-02-12,False,10,986 Mercer Street,Agbor,2024-10-08,,Yes
+293,1293,Ibrahim,Okeke,257,6,Male,2009-06-02,2024-02-09,False,15,84062 Mason Pine,Ozoro,2024-10-08,,Yes
+312,1312,Ngozi,Danladi,514,7,Male,2009-03-25,2024-02-14,False,15,866 Schultz Port Suite 781,Agbor,2024-10-08,,Yes
+187,1187,Chinedu,Nnamdi,360,4,Female,2008-06-17,2024-02-07,False,16,9330 Wayne Islands Apt. 033,Abraka,2024-10-08,,Yes
+575,1575,Chinedu,Olawale,178,12,Male,2011-09-28,2024-02-16,False,13,986 Mercer Street,Ozoro,2024-10-08,,Yes
+202,1202,Ifeanyi,Eze,370,5,Male,2011-01-29,2024-02-20,False,13,52651 Amy Ports,Agbor,2024-10-08,,Yes
+367,1367,Ifeanyi,Danladi,520,8,Male,2014-04-21,2024-02-12,False,10,72854 Rhodes Burg Suite 646,Patani,2024-10-08,,Yes
+97,1097,Ifeanyi,Nnamdi,435,2,Female,2011-03-23,2024-02-19,False,13,34692 Heather Greens Suite 181,Oghara,2024-10-08,,Yes
+484,1484,Ngozi,Eze,174,10,Female,2014-02-06,2024-02-12,False,10,0326 Melinda Club,Burutu,2024-10-08,,Yes
+428,1428,Ngozi,Danladi,345,9,Male,2010-07-10,2024-02-08,False,14,1495 Rodgers Lake,Agbor,2024-10-08,,Yes
+418,1418,Ngozi,Danladi,466,9,Female,2011-02-25,2024-02-20,False,13,845 Casey Alley,Oghara,2024-10-08,,Yes
+591,1591,Adebayo,Adeyemi,582,12,Female,2008-05-23,2024-02-11,False,16,97238 Gonzales Green,Koko,2024-10-08,,Yes
+134,1134,Bola,Bello,246,3,Male,2010-12-18,2024-02-17,False,14,77892 Turner Mountain,Abraka,2024-10-08,,Yes
+63,1063,Adebayo,Okeke,322,2,Male,2009-05-07,2024-02-15,False,15,0326 Melinda Club,Asaba,2024-10-08,,Yes
+430,1430,Adebayo,Abdullahi,211,9,Male,2013-09-30,2024-02-11,False,11,03578 Reese Trafficway Apt. 662,Agbor,2024-10-08,,Yes
+39,1039,Obinna,Olawale,103,1,Male,2014-09-08,2024-02-18,False,10,45643 Wilson Ferry,Abraka,2024-10-08,,Yes
+321,1321,Ibrahim,Adeyemi,587,7,Female,2009-12-14,2024-02-12,False,15,45643 Wilson Ferry,Oleh,2024-10-08,,Yes
+348,1348,Ifeanyi,Bello,420,7,Female,2008-07-25,2024-02-15,False,16,9483 Andrew Mission Suite 812,Warri,2024-10-08,,Yes
+205,1205,Chinedu,Danladi,446,5,Male,2009-07-14,2024-02-13,False,15,84062 Mason Pine,Patani,2024-10-08,,Yes
+374,1374,Adebayo,Olawale,463,8,Female,2014-06-20,2024-02-16,False,10,03578 Reese Trafficway Apt. 662,Oghara,2024-10-08,,Yes
+438,1438,Chinedu,Nnamdi,395,9,Female,2010-02-22,2024-02-10,False,14,49690 Romero Vista Apt. 545,Ughelli,2024-10-08,,Yes
+268,1268,Adebayo,Danladi,402,6,Male,2008-01-21,2024-02-19,False,16,31070 Brown Harbor,Abraka,2024-10-08,,Yes
+15,1015,Obinna,Olawale,584,1,Female,2014-03-05,2024-02-19,False,10,9088 Shelly Manor Suite 704,Koko,2024-10-08,,Yes
+154,1154,Bola,Adeyemi,206,4,Male,2012-02-05,2024-02-18,False,12,42656 Justin Heights Suite 611,Oleh,2024-10-08,,Yes
+133,1133,Ifeanyi,Okeke,229,3,Female,2008-03-15,2024-02-10,False,16,39310 Garcia Hill Apt. 435,Ughelli,2024-10-08,,Yes
+217,1217,Bola,Adeyemi,510,5,Female,2010-05-09,2024-02-20,False,14,45643 Wilson Ferry,Oleh,2024-10-08,,Yes
+93,1093,Chinaza,Danladi,215,2,Female,2012-11-11,2024-02-12,False,12,822 Susan Trace Suite 988,Ughelli,2024-10-08,,Yes
+347,1347,Chinedu,Bello,476,7,Female,2009-08-06,2024-02-16,False,15,9330 Wayne Islands Apt. 033,Warri,2024-10-08,,Yes
+283,1283,Ifeanyi,Bello,447,6,Male,2010-07-25,2024-02-15,False,14,0326 Melinda Club,Ozoro,2024-10-08,,Yes
+196,1196,Ibrahim,Nnamdi,211,4,Male,2013-09-28,2024-02-10,False,11,841 Derek Manors Suite 743,Burutu,2024-10-08,,Yes
+571,1571,Chinedu,Danladi,204,12,Female,2009-11-18,2024-02-08,False,15,77892 Turner Mountain,Ozoro,2024-10-08,,Yes
+180,1180,Kemi,Adeyemi,205,4,Female,2011-02-17,2024-02-11,False,13,06635 Helen Cliffs Suite 928,Koko,2024-10-08,,Yes
+556,1556,Ifeanyi,Adeyemi,141,12,Female,2013-09-25,2024-02-20,False,11,208 John Drive Suite 314,Abraka,2024-10-08,,Yes
+188,1188,Obinna,Olawale,158,4,Male,2014-02-28,2024-02-15,False,10,72854 Rhodes Burg Suite 646,Ozoro,2024-10-08,,Yes
+345,1345,Kemi,Danladi,470,7,Male,2014-06-27,2024-02-09,False,10,9330 Wayne Islands Apt. 033,Agbor,2024-10-08,,Yes
+506,1506,Chinedu,Bello,404,11,Female,2010-10-08,2024-02-11,False,14,208 John Drive Suite 314,Oghara,2024-10-08,,Yes
+291,1291,Ngozi,Abimbola,275,6,Female,2007-11-06,2024-02-10,False,17,429 Walker Loaf Apt. 643,Warri,2024-10-08,,Yes
+520,1520,Kemi,Adeyemi,567,11,Male,2008-09-01,2024-02-17,False,16,97238 Gonzales Green,Ozoro,2024-10-08,,Yes
+107,1107,Ahmed,Eze,245,3,Male,2011-07-24,2024-02-13,False,13,49690 Romero Vista Apt. 545,Ughelli,2024-10-08,,Yes
+509,1509,Ibrahim,Okeke,523,11,Female,2012-08-23,2024-02-20,False,12,57510 Ryan Plaza Apt. 485,Asaba,2024-10-08,,Yes
+6,1006,Chinaza,Danladi,186,1,Male,2012-09-26,2024-02-09,False,12,4793 Mark Unions Suite 964,Burutu,2024-10-08,,Yes
+76,1076,Ibrahim,Abimbola,554,2,Male,2010-11-22,2024-02-12,False,14,9483 Andrew Mission Suite 812,Oghara,2024-10-08,,Yes
+441,1441,Ngozi,Olawale,107,9,Male,2011-09-25,2024-02-16,False,13,45029 David Glens Apt. 736,Patani,2024-10-08,,Yes
+163,1163,Chinaza,Okeke,120,4,Female,2011-07-01,2024-02-17,False,13,7911 Lyons Pines,Agbor,2024-10-08,,Yes
+197,1197,Ibrahim,Eze,595,4,Male,2008-12-30,2024-02-12,False,16,4354 Amanda Parkway,Warri,2024-10-08,,Yes
+323,1323,Ifeanyi,Danladi,149,7,Male,2012-09-05,2024-02-09,False,12,3915 Lane Knolls,Burutu,2024-10-08,,Yes
+557,1557,Kemi,Olawale,263,12,Male,2014-02-07,2024-02-17,False,10,7947 Cook Mission Apt. 516,Sapele,2024-10-08,,Yes
+495,1495,Bola,Abimbola,587,10,Male,2014-09-29,2024-02-07,False,10,70855 Calvin Trail Suite 976,Oghara,2024-10-08,,Yes
+294,1294,Ifeanyi,Danladi,153,6,Female,2009-12-03,2024-02-11,False,15,7947 Cook Mission Apt. 516,Oghara,2024-10-08,,Yes
+548,1548,Kemi,Eze,585,11,Male,2008-04-19,2024-02-07,False,16,57510 Ryan Plaza Apt. 485,Burutu,2024-10-08,,Yes
+1,1001,Kemi,Adeyemi,231,1,Female,2011-06-22,2024-02-18,False,13,9483 Andrew Mission Suite 812,Sapele,2024-10-08,,Yes
+325,1325,Adebayo,Danladi,432,7,Female,2011-08-14,2024-02-17,False,13,845 Casey Alley,Abraka,2024-10-08,,Yes
+57,1057,Ngozi,Nnamdi,347,2,Male,2013-08-06,2024-02-08,False,11,39310 Garcia Hill Apt. 435,Ughelli,2024-10-08,,Yes
+78,1078,Bola,Danladi,247,2,Male,2011-01-19,2024-02-18,False,13,72854 Rhodes Burg Suite 646,Oghara,2024-10-08,,Yes
+164,1164,Ngozi,Danladi,283,4,Male,2008-05-14,2024-02-13,False,16,72854 Rhodes Burg Suite 646,Ughelli,2024-10-08,,Yes
+269,1269,Ahmed,Danladi,280,6,Female,2013-05-16,2024-02-11,False,11,86689 Cole Orchard,Ughelli,2024-10-08,,Yes
+142,1142,Ibrahim,Abdullahi,144,3,Female,2012-10-19,2024-02-16,False,12,42656 Justin Heights Suite 611,Burutu,2024-10-08,,Yes
+4,1004,Obinna,Adeyemi,191,1,Female,2013-04-07,2024-02-07,False,11,84062 Mason Pine,Oghara,2024-10-08,,Yes
+377,1377,Obinna,Abimbola,132,8,Female,2011-07-14,2024-02-08,False,13,63052 Griffith Ferry Apt. 307,Ughelli,2024-10-08,,Yes
+467,1467,Adebayo,Abdullahi,357,10,Male,2012-09-03,2024-02-13,False,12,9330 Wayne Islands Apt. 033,Sapele,2024-10-08,,Yes
+198,1198,Adebayo,Okeke,554,4,Male,2014-03-14,2024-02-15,False,10,982 Brandon Village,Abraka,2024-10-08,,Yes
+75,1075,Ifeanyi,Nnamdi,395,2,Male,2011-09-18,2024-02-20,False,13,77892 Turner Mountain,Ughelli,2024-10-08,,Yes
+53,1053,Ahmed,Olawale,322,2,Female,2008-11-20,2024-02-13,False,16,822 Susan Trace Suite 988,Agbor,2024-10-08,,Yes
+32,1032,Obinna,Nnamdi,333,1,Female,2010-03-06,2024-02-17,False,14,5550 Smith Alley Suite 852,Ughelli,2024-10-08,,Yes
+521,1521,Ifeanyi,Danladi,517,11,Female,2012-09-18,2024-02-14,False,12,1495 Rodgers Lake,Ozoro,2024-10-08,,Yes
+307,1307,Ifeanyi,Eze,270,7,Male,2008-04-29,2024-02-17,False,16,92652 Stewart Ports,Abraka,2024-10-08,,Yes
+110,1110,Chinedu,Eze,577,3,Female,2012-12-13,2024-02-20,False,12,72854 Rhodes Burg Suite 646,Agbor,2024-10-08,,Yes
+86,1086,Chinedu,Abdullahi,519,2,Male,2011-08-28,2024-02-11,False,13,77892 Turner Mountain,Burutu,2024-10-08,,Yes
+253,1253,Obinna,Danladi,544,6,Male,2014-06-16,2024-02-19,False,10,49690 Romero Vista Apt. 545,Agbor,2024-10-08,,Yes
+56,1056,Adebayo,Bello,296,2,Female,2010-07-03,2024-02-13,False,14,7746 Martin Key,Abraka,2024-10-08,,Yes
+340,1340,Chinaza,Eze,555,7,Female,2011-03-24,2024-02-14,False,13,45029 David Glens Apt. 736,Ughelli,2024-10-08,,Yes
+18,1018,Ibrahim,Abdullahi,206,1,Male,2009-08-13,2024-02-19,False,15,9610 Torres Way Apt. 377,Asaba,2024-10-08,,Yes
+117,1117,Bola,Olawale,474,3,Male,2008-08-13,2024-02-10,False,16,9330 Wayne Islands Apt. 033,Asaba,2024-10-08,,Yes
+409,1409,Ifeanyi,Olawale,344,9,Male,2009-10-16,2024-02-18,False,15,52651 Amy Ports,Abraka,2024-10-08,,Yes
+191,1191,Chinedu,Bello,394,4,Female,2009-10-12,2024-02-10,False,15,839 Sheppard Isle Suite 665,Patani,2024-10-08,,Yes
+408,1408,Ahmed,Bello,122,9,Male,2008-04-04,2024-02-07,False,16,845 Casey Alley,Agbor,2024-10-08,,Yes
+429,1429,Kemi,Abdullahi,369,9,Male,2014-05-30,2024-02-18,False,10,4793 Mark Unions Suite 964,Agbor,2024-10-08,,Yes
+273,1273,Ahmed,Abdullahi,429,6,Female,2008-10-19,2024-02-17,False,16,45643 Wilson Ferry,Sapele,2024-10-08,,Yes
+537,1537,Ibrahim,Eze,460,11,Female,2011-10-22,2024-02-09,False,13,208 John Drive Suite 314,Patani,2024-10-08,,Yes
+329,1329,Obinna,Danladi,351,7,Male,2014-05-19,2024-02-10,False,10,1495 Rodgers Lake,Sapele,2024-10-08,,Yes
+351,1351,Ngozi,Eze,380,8,Male,2009-08-28,2024-02-19,False,15,97238 Gonzales Green,Abraka,2024-10-08,,Yes
+231,1231,Ifeanyi,Adeyemi,189,5,Female,2010-08-01,2024-02-19,False,14,8708 Adkins Springs,Oleh,2024-10-08,,Yes
+240,1240,Chinaza,Bello,335,5,Female,2011-09-15,2024-02-13,False,13,9483 Andrew Mission Suite 812,Warri,2024-10-08,,Yes
+519,1519,Ahmed,Olawale,120,11,Male,2008-06-20,2024-02-14,False,16,70855 Calvin Trail Suite 976,Patani,2024-10-08,,Yes
+123,1123,Ifeanyi,Abimbola,576,3,Female,2009-02-01,2024-02-19,False,15,356 Martinez Forge,Warri,2024-10-08,,Yes
+397,1397,Adebayo,Eze,398,8,Female,2008-01-04,2024-02-07,False,16,9330 Wayne Islands Apt. 033,Patani,2024-10-08,,Yes
+153,1153,Ibrahim,Abimbola,581,4,Female,2008-04-21,2024-02-07,False,16,3915 Lane Knolls,Warri,2024-10-08,,Yes
+13,1013,Ahmed,Abdullahi,155,1,Female,2011-02-25,2024-02-11,False,13,45029 David Glens Apt. 736,Koko,2024-10-08,,Yes
+245,1245,Kemi,Olawale,472,5,Male,2011-07-27,2024-02-11,False,13,49690 Romero Vista Apt. 545,Abraka,2024-10-08,,Yes
+209,1209,Bola,Bello,231,5,Female,2008-12-05,2024-02-09,False,16,03578 Reese Trafficway Apt. 662,Asaba,2024-10-08,,Yes
+194,1194,Chinedu,Abimbola,449,4,Male,2013-08-18,2024-02-16,False,11,429 Walker Loaf Apt. 643,Koko,2024-10-08,,Yes
+425,1425,Ahmed,Olawale,226,9,Male,2008-12-01,2024-02-09,False,16,70855 Calvin Trail Suite 976,Koko,2024-10-08,,Yes
+222,1222,Adebayo,Bello,214,5,Female,2013-11-13,2024-02-09,False,11,70855 Calvin Trail Suite 976,Sapele,2024-10-08,,Yes
+389,1389,Chinedu,Adeyemi,595,8,Male,2008-01-04,2024-02-16,False,16,77892 Turner Mountain,Abraka,2024-10-08,,Yes
+137,1137,Ahmed,Abdullahi,294,3,Female,2009-10-05,2024-02-12,False,15,49690 Romero Vista Apt. 545,Burutu,2024-10-08,,Yes
+213,1213,Ifeanyi,Eze,531,5,Female,2011-12-02,2024-02-12,False,13,982 Brandon Village,Koko,2024-10-08,,Yes
+583,1583,Ifeanyi,Abdullahi,241,12,Male,2011-05-27,2024-02-19,False,13,39310 Garcia Hill Apt. 435,Warri,2024-10-08,,Yes
+64,1064,Chinedu,Abdullahi,499,2,Male,2009-07-29,2024-02-08,False,15,06635 Helen Cliffs Suite 928,Ughelli,2024-10-08,,Yes
+147,1147,Chinaza,Danladi,138,3,Female,2013-03-19,2024-02-12,False,11,7911 Lyons Pines,Ughelli,2024-10-08,,Yes
+447,1447,Ngozi,Abimbola,238,9,Male,2013-02-15,2024-02-11,False,11,8708 Adkins Springs,Ozoro,2024-10-08,,Yes
+272,1272,Chinaza,Eze,563,6,Female,2011-04-05,2024-02-19,False,13,72854 Rhodes Burg Suite 646,Sapele,2024-10-08,,Yes
+390,1390,Ahmed,Nnamdi,359,8,Female,2012-01-23,2024-02-12,False,12,5550 Smith Alley Suite 852,Sapele,2024-10-08,,Yes
+208,1208,Ngozi,Abdullahi,147,5,Male,2011-07-26,2024-02-20,False,13,7947 Cook Mission Apt. 516,Oleh,2024-10-08,,Yes
+331,1331,Chinaza,Eze,548,7,Female,2012-01-03,2024-02-10,False,12,7746 Martin Key,Sapele,2024-10-08,,Yes
+37,1037,Bola,Abdullahi,489,1,Female,2010-10-29,2024-02-12,False,14,4793 Mark Unions Suite 964,Abraka,2024-10-08,,Yes
+488,1488,Adebayo,Danladi,394,10,Male,2010-06-16,2024-02-20,False,14,03578 Reese Trafficway Apt. 662,Koko,2024-10-08,,Yes
+109,1109,Bola,Adeyemi,326,3,Female,2014-08-31,2024-02-14,False,10,42656 Justin Heights Suite 611,Sapele,2024-10-08,,Yes
+219,1219,Kemi,Adeyemi,541,5,Male,2010-12-18,2024-02-07,False,14,4354 Amanda Parkway,Ughelli,2024-10-08,,Yes
+230,1230,Ngozi,Olawale,525,5,Female,2012-01-19,2024-02-16,False,12,986 Mercer Street,Asaba,2024-10-08,,Yes
+211,1211,Chinedu,Okeke,504,5,Male,2007-12-20,2024-02-09,False,17,866 Schultz Port Suite 781,Asaba,2024-10-08,,Yes
+58,1058,Ahmed,Eze,152,2,Male,2012-04-14,2024-02-14,False,12,42656 Justin Heights Suite 611,Asaba,2024-10-08,,Yes
+185,1185,Ngozi,Bello,410,4,Male,2008-07-04,2024-02-16,False,16,77892 Turner Mountain,Oleh,2024-10-08,,Yes
+275,1275,Ahmed,Adeyemi,179,6,Female,2008-09-29,2024-02-11,False,16,839 Sheppard Isle Suite 665,Oleh,2024-10-08,,Yes
+59,1059,Obinna,Bello,542,2,Male,2012-04-08,2024-02-15,False,12,4793 Mark Unions Suite 964,Agbor,2024-10-08,,Yes
+336,1336,Chinedu,Nnamdi,263,7,Male,2010-02-18,2024-02-14,False,14,28290 Glover Valley Apt. 282,Ughelli,2024-10-08,,Yes
+24,1024,Chinaza,Bello,255,1,Female,2008-09-30,2024-02-08,False,16,822 Susan Trace Suite 988,Oleh,2024-10-08,,Yes
+341,1341,Bola,Nnamdi,132,7,Male,2011-01-17,2024-02-07,False,13,31070 Brown Harbor,Ughelli,2024-10-08,,Yes
+241,1241,Ifeanyi,Nnamdi,449,5,Male,2010-09-17,2024-02-13,False,14,03578 Reese Trafficway Apt. 662,Koko,2024-10-08,,Yes
+333,1333,Bola,Danladi,195,7,Male,2007-10-28,2024-02-09,False,17,4793 Mark Unions Suite 964,Koko,2024-10-08,,Yes
+574,1574,Bola,Okeke,294,12,Female,2011-03-02,2024-02-14,False,13,03578 Reese Trafficway Apt. 662,Patani,2024-10-08,,Yes
+310,1310,Ngozi,Okeke,566,7,Male,2008-10-28,2024-02-12,False,16,822 Susan Trace Suite 988,Oleh,2024-10-08,,Yes
+461,1461,Ifeanyi,Olawale,348,10,Male,2013-06-02,2024-02-08,False,11,356 Martinez Forge,Oghara,2024-10-08,,Yes
+319,1319,Bola,Bello,321,7,Male,2011-12-07,2024-02-18,False,13,06635 Helen Cliffs Suite 928,Abraka,2024-10-08,,Yes
+215,1215,Ibrahim,Eze,501,5,Male,2007-11-08,2024-02-13,False,17,429 Walker Loaf Apt. 643,Ozoro,2024-10-08,,Yes
+139,1139,Chinedu,Abdullahi,315,3,Female,2009-11-04,2024-02-09,False,15,34692 Heather Greens Suite 181,Warri,2024-10-08,,Yes
+525,1525,Ifeanyi,Bello,153,11,Female,2010-12-01,2024-02-19,False,14,8708 Adkins Springs,Patani,2024-10-08,,Yes
+126,1126,Obinna,Olawale,418,3,Male,2013-03-19,2024-02-11,False,11,49690 Romero Vista Apt. 545,Patani,2024-10-08,,Yes
+369,1369,Obinna,Okeke,403,8,Female,2013-06-02,2024-02-08,False,11,4793 Mark Unions Suite 964,Koko,2024-10-08,,Yes
+9,1009,Obinna,Abimbola,178,1,Female,2013-12-10,2024-02-19,False,11,97238 Gonzales Green,Koko,2024-10-08,,Yes
+479,1479,Ifeanyi,Bello,159,10,Female,2012-08-09,2024-02-17,False,12,9610 Torres Way Apt. 377,Ughelli,2024-10-08,,Yes
+11,1011,Adebayo,Eze,145,1,Female,2013-04-09,2024-02-15,False,11,208 John Drive Suite 314,Sapele,2024-10-08,,Yes
+121,1121,Ahmed,Abimbola,253,3,Male,2011-03-14,2024-02-15,False,13,208 John Drive Suite 314,Oghara,2024-10-08,,Yes
+81,1081,Adebayo,Bello,285,2,Male,2013-12-22,2024-02-08,False,11,77892 Turner Mountain,Warri,2024-10-08,,Yes
+192,1192,Adebayo,Danladi,357,4,Female,2010-04-11,2024-02-18,False,14,77892 Turner Mountain,Ughelli,2024-10-08,,Yes
+20,1020,Ibrahim,Bello,381,1,Male,2012-08-18,2024-02-09,False,12,4793 Mark Unions Suite 964,Patani,2024-10-08,,Yes
+490,1490,Bola,Danladi,401,10,Female,2007-11-10,2024-02-13,False,17,866 Schultz Port Suite 781,Oleh,2024-10-08,,Yes
+468,1468,Chinaza,Nnamdi,370,10,Male,2014-02-02,2024-02-18,False,10,57510 Ryan Plaza Apt. 485,Agbor,2024-10-08,,Yes
+257,1257,Kemi,Abdullahi,512,6,Female,2014-07-17,2024-02-20,False,10,4793 Mark Unions Suite 964,Koko,2024-10-08,,Yes
+118,1118,Chinaza,Abimbola,406,3,Female,2009-09-12,2024-02-12,False,15,70855 Calvin Trail Suite 976,Ughelli,2024-10-08,,Yes
+457,1457,Ifeanyi,Abimbola,437,10,Male,2013-02-11,2024-02-20,False,11,06635 Helen Cliffs Suite 928,Warri,2024-10-08,,Yes
+2,1002,Ahmed,Nnamdi,429,1,Female,2012-06-30,2024-02-10,False,12,7911 Lyons Pines,Ozoro,2024-10-08,,Yes
+313,1313,Kemi,Olawale,392,7,Male,2013-07-24,2024-02-07,False,11,4793 Mark Unions Suite 964,Patani,2024-10-08,,Yes
+507,1507,Ibrahim,Bello,436,11,Female,2011-02-12,2024-02-11,False,13,356 Martinez Forge,Ughelli,2024-10-08,,Yes
+95,1095,Chinedu,Abimbola,141,2,Female,2008-04-16,2024-02-14,False,16,45029 David Glens Apt. 736,Burutu,2024-10-08,,Yes
+499,1499,Ifeanyi,Eze,389,10,Male,2011-08-15,2024-02-18,False,13,63052 Griffith Ferry Apt. 307,Sapele,2024-10-08,,Yes
+326,1326,Obinna,Danladi,241,7,Female,2013-03-16,2024-02-20,False,11,0326 Melinda Club,Ughelli,2024-10-08,,Yes
+129,1129,Kemi,Abimbola,200,3,Female,2010-06-20,2024-02-12,False,14,9610 Torres Way Apt. 377,Koko,2024-10-08,,Yes
+299,1299,Ifeanyi,Olawale,552,6,Male,2009-01-04,2024-02-08,False,15,86689 Cole Orchard,Abraka,2024-10-08,,Yes
+454,1454,Ifeanyi,Nnamdi,468,10,Male,2012-02-03,2024-02-08,False,12,986 Mercer Street,Agbor,2024-10-08,,Yes
+527,1527,Ifeanyi,Abdullahi,259,11,Male,2012-05-10,2024-02-09,False,12,70855 Calvin Trail Suite 976,Asaba,2024-10-08,,Yes
+200,1200,Ngozi,Danladi,577,4,Female,2008-02-12,2024-02-17,False,16,57510 Ryan Plaza Apt. 485,Oghara,2024-10-08,,Yes
+52,1052,Bola,Bello,171,2,Female,2009-10-18,2024-02-18,False,15,7947 Cook Mission Apt. 516,Burutu,2024-10-08,,Yes
+45,1045,Obinna,Abimbola,392,1,Male,2010-10-09,2024-02-15,False,14,39310 Garcia Hill Apt. 435,Warri,2024-10-08,,Yes
+564,1564,Ngozi,Abimbola,526,12,Female,2014-10-05,2024-02-12,False,10,06635 Helen Cliffs Suite 928,Warri,2024-10-08,,Yes
+90,1090,Ibrahim,Abdullahi,526,2,Female,2010-05-17,2024-02-19,False,14,9483 Andrew Mission Suite 812,Ughelli,2024-10-08,,Yes
+572,1572,Bola,Adeyemi,225,12,Male,2008-09-26,2024-02-09,False,16,63052 Griffith Ferry Apt. 307,Warri,2024-10-08,,Yes
+530,1530,Kemi,Nnamdi,192,11,Female,2011-06-25,2024-02-11,False,13,92652 Stewart Ports,Patani,2024-10-08,,Yes
+570,1570,Chinedu,Abimbola,407,12,Male,2009-04-17,2024-02-07,False,15,866 Schultz Port Suite 781,Sapele,2024-10-08,,Yes
+159,1159,Ibrahim,Eze,521,4,Male,2011-04-20,2024-02-15,False,13,5550 Smith Alley Suite 852,Sapele,2024-10-08,,Yes
+503,1503,Adebayo,Okeke,495,11,Male,2009-04-14,2024-02-09,False,15,45643 Wilson Ferry,Abraka,2024-10-08,,Yes
+27,1027,Adebayo,Abimbola,273,1,Male,2013-05-15,2024-02-09,False,11,8708 Adkins Springs,Oleh,2024-10-08,,Yes
+212,1212,Obinna,Abdullahi,216,5,Male,2008-02-03,2024-02-20,False,16,03578 Reese Trafficway Apt. 662,Warri,2024-10-08,,Yes
+44,1044,Ifeanyi,Bello,386,1,Female,2013-07-04,2024-02-14,False,11,28290 Glover Valley Apt. 282,Sapele,2024-10-08,,Yes
+544,1544,Kemi,Okeke,509,11,Female,2010-01-11,2024-02-08,False,14,845 Casey Alley,Agbor,2024-10-08,,Yes
+237,1237,Adebayo,Abdullahi,508,5,Female,2013-08-14,2024-02-20,False,11,7911 Lyons Pines,Oghara,2024-10-08,,Yes
+448,1448,Ibrahim,Eze,495,9,Male,2010-10-12,2024-02-10,False,14,982 Brandon Village,Warri,2024-10-08,,Yes
+559,1559,Ngozi,Bello,218,12,Male,2011-08-10,2024-02-08,False,13,57510 Ryan Plaza Apt. 485,Asaba,2024-10-08,,Yes
+94,1094,Chinaza,Okeke,488,2,Male,2013-11-02,2024-02-12,False,11,982 Brandon Village,Abraka,2024-10-08,,Yes
+532,1532,Obinna,Okeke,497,11,Female,2011-11-07,2024-02-07,False,13,5550 Smith Alley Suite 852,Burutu,2024-10-08,,Yes
+344,1344,Chinaza,Danladi,167,7,Female,2010-06-30,2024-02-08,False,14,80899 Rachel Mission Apt. 927,Koko,2024-10-08,,Yes
+435,1435,Obinna,Nnamdi,116,9,Female,2008-09-06,2024-02-15,False,16,45029 David Glens Apt. 736,Patani,2024-10-08,,Yes
+236,1236,Adebayo,Bello,329,5,Male,2010-06-18,2024-02-18,False,14,64919 Brittany Mews Suite 624,Ughelli,2024-10-08,,Yes
+40,1040,Ibrahim,Adeyemi,504,1,Female,2012-07-21,2024-02-07,False,12,86689 Cole Orchard,Ozoro,2024-10-08,,Yes
+127,1127,Ahmed,Danladi,383,3,Male,2010-11-15,2024-02-15,False,14,97238 Gonzales Green,Warri,2024-10-08,,Yes
+416,1416,Ngozi,Nnamdi,327,9,Male,2012-04-13,2024-02-12,False,12,0326 Melinda Club,Ughelli,2024-10-08,,Yes
+181,1181,Bola,Okeke,256,4,Female,2014-01-03,2024-02-07,False,10,31070 Brown Harbor,Ughelli,2024-10-08,,Yes
+477,1477,Chinaza,Nnamdi,392,10,Male,2008-12-05,2024-02-16,False,16,141 Greer Village,Warri,2024-10-08,,Yes
+303,1303,Chinaza,Adeyemi,159,7,Male,2014-04-23,2024-02-12,False,10,80899 Rachel Mission Apt. 927,Koko,2024-10-08,,Yes
+42,1042,Chinaza,Eze,449,1,Male,2012-05-20,2024-02-13,False,12,64919 Brittany Mews Suite 624,Ughelli,2024-10-08,,Yes
+553,1553,Ibrahim,Okeke,166,12,Male,2010-11-14,2024-02-09,False,14,39310 Garcia Hill Apt. 435,Oleh,2024-10-08,,Yes
+292,1292,Chinaza,Danladi,418,6,Female,2009-04-14,2024-02-09,False,15,31070 Brown Harbor,Ozoro,2024-10-08,,Yes
+8,1008,Ahmed,Danladi,591,1,Male,2008-05-03,2024-02-08,False,16,9610 Torres Way Apt. 377,Ughelli,2024-10-08,,Yes
+281,1281,Adebayo,Okeke,261,6,Female,2011-07-19,2024-02-20,False,13,9330 Wayne Islands Apt. 033,Ughelli,2024-10-08,,Yes
+472,1472,Obinna,Nnamdi,206,10,Female,2009-06-13,2024-02-15,False,15,42656 Justin Heights Suite 611,Ughelli,2024-10-08,,Yes
+475,1475,Ifeanyi,Abimbola,302,10,Female,2010-01-02,2024-02-08,False,14,52651 Amy Ports,Ughelli,2024-10-08,,Yes
+466,1466,Ngozi,Nnamdi,328,10,Female,2008-06-27,2024-02-16,False,16,5550 Smith Alley Suite 852,Sapele,2024-10-08,,Yes
+595,1595,Ibrahim,Nnamdi,343,12,Female,2010-11-11,2024-02-16,False,14,551 Sarah Courts,Burutu,2024-10-08,,Yes
+250,1250,Chinedu,Eze,149,5,Male,2008-05-24,2024-02-16,False,16,77892 Turner Mountain,Abraka,2024-10-08,,Yes
+551,1551,Ahmed,Eze,494,12,Male,2009-09-22,2024-02-13,False,15,63052 Griffith Ferry Apt. 307,Warri,2024-10-08,,Yes
+115,1115,Chinedu,Abdullahi,448,3,Male,2012-09-08,2024-02-13,False,12,06635 Helen Cliffs Suite 928,Patani,2024-10-08,,Yes
+399,1399,Ibrahim,Eze,236,8,Female,2012-02-11,2024-02-10,False,12,356 Martinez Forge,Oghara,2024-10-08,,Yes
+135,1135,Kemi,Olawale,319,3,Female,2011-09-19,2024-02-14,False,13,3915 Lane Knolls,Agbor,2024-10-08,,Yes
+243,1243,Ahmed,Abdullahi,437,5,Male,2011-01-15,2024-02-09,False,13,8708 Adkins Springs,Oghara,2024-10-08,,Yes
+440,1440,Ngozi,Abdullahi,487,9,Male,2010-12-03,2024-02-12,False,14,03578 Reese Trafficway Apt. 662,Sapele,2024-10-08,,Yes
+227,1227,Ahmed,Nnamdi,476,5,Male,2014-03-17,2024-02-16,False,10,7911 Lyons Pines,Patani,2024-10-08,,Yes
+431,1431,Chinedu,Abdullahi,350,9,Male,2011-05-18,2024-02-17,False,13,84062 Mason Pine,Warri,2024-10-08,,Yes
+368,1368,Bola,Abimbola,330,8,Female,2009-01-17,2024-02-20,False,15,80899 Rachel Mission Apt. 927,Patani,2024-10-08,,Yes
+511,1511,Chinaza,Okeke,242,11,Female,2008-04-25,2024-02-20,False,16,39310 Garcia Hill Apt. 435,Ughelli,2024-10-08,,Yes
+172,1172,Adebayo,Abdullahi,194,4,Male,2008-03-05,2024-02-18,False,16,5550 Smith Alley Suite 852,Ughelli,2024-10-08,,Yes
+330,1330,Adebayo,Bello,127,7,Male,2012-06-13,2024-02-12,False,12,42656 Justin Heights Suite 611,Ughelli,2024-10-08,,Yes
+77,1077,Obinna,Adeyemi,217,2,Male,2008-02-21,2024-02-10,False,16,429 Walker Loaf Apt. 643,Oghara,2024-10-08,,Yes
+179,1179,Ngozi,Eze,158,4,Male,2014-08-29,2024-02-20,False,10,39310 Garcia Hill Apt. 435,Oleh,2024-10-08,,Yes
+193,1193,Obinna,Danladi,596,4,Female,2013-01-07,2024-02-08,False,11,72854 Rhodes Burg Suite 646,Patani,2024-10-08,,Yes
+518,1518,Ifeanyi,Bello,175,11,Female,2010-09-25,2024-02-11,False,14,822 Susan Trace Suite 988,Ozoro,2024-10-08,,Yes
+597,1597,Ifeanyi,Okeke,215,12,Male,2010-03-09,2024-02-10,False,14,822 Susan Trace Suite 988,Burutu,2024-10-08,,Yes
+552,1552,Ifeanyi,Bello,153,12,Female,2012-10-20,2024-02-12,False,12,9330 Wayne Islands Apt. 033,Burutu,2024-10-08,,Yes
+354,1354,Ibrahim,Adeyemi,196,8,Male,2012-07-25,2024-02-19,False,12,822 Susan Trace Suite 988,Ughelli,2024-10-08,,Yes
+500,1500,Ibrahim,Danladi,356,10,Female,2012-04-14,2024-02-12,False,12,356 Martinez Forge,Oleh,2024-10-08,,Yes
+567,1567,Adebayo,Abimbola,568,12,Male,2010-11-05,2024-02-13,False,14,5550 Smith Alley Suite 852,Warri,2024-10-08,,Yes
+439,1439,Bola,Olawale,589,9,Male,2013-11-21,2024-02-10,False,11,7947 Cook Mission Apt. 516,Ughelli,2024-10-08,,Yes
+453,1453,Ngozi,Okeke,439,10,Female,2011-08-07,2024-02-13,False,13,208 John Drive Suite 314,Sapele,2024-10-08,,Yes
+175,1175,Obinna,Nnamdi,244,4,Female,2008-05-28,2024-02-07,False,16,841 Derek Manors Suite 743,Sapele,2024-10-08,,Yes
+284,1284,Adebayo,Adeyemi,553,6,Male,2008-02-07,2024-02-20,False,16,39310 Garcia Hill Apt. 435,Warri,2024-10-08,,Yes
+424,1424,Bola,Nnamdi,440,9,Female,2012-10-17,2024-02-11,False,12,64919 Brittany Mews Suite 624,Oleh,2024-10-08,,Yes
+148,1148,Ibrahim,Bello,528,3,Female,2011-01-04,2024-02-15,False,13,7947 Cook Mission Apt. 516,Oghara,2024-10-08,,Yes
+96,1096,Ahmed,Nnamdi,562,2,Female,2012-06-14,2024-02-19,False,12,845 Casey Alley,Burutu,2024-10-08,,Yes
+111,1111,Chinaza,Abdullahi,157,3,Female,2013-05-05,2024-02-19,False,11,06635 Helen Cliffs Suite 928,Ozoro,2024-10-08,,Yes
+540,1540,Ibrahim,Eze,429,11,Male,2011-05-05,2024-02-11,False,13,7911 Lyons Pines,Koko,2024-10-08,,Yes
+251,1251,Ngozi,Eze,324,6,Female,2009-03-14,2024-02-16,False,15,839 Sheppard Isle Suite 665,Ozoro,2024-10-08,,Yes
+502,1502,Kemi,Danladi,554,11,Female,2011-12-07,2024-02-17,False,13,9330 Wayne Islands Apt. 033,Ughelli,2024-10-08,,Yes
+573,1573,Ifeanyi,Abimbola,108,12,Female,2008-03-12,2024-02-16,False,16,03578 Reese Trafficway Apt. 662,Warri,2024-10-08,,Yes
+146,1146,Chinedu,Bello,324,3,Female,2008-09-16,2024-02-17,False,16,9610 Torres Way Apt. 377,Patani,2024-10-08,,Yes
+385,1385,Adebayo,Abimbola,337,8,Male,2011-11-14,2024-02-15,False,13,845 Casey Alley,Warri,2024-10-08,,Yes
+582,1582,Bola,Adeyemi,311,12,Female,2009-07-15,2024-02-17,False,15,9330 Wayne Islands Apt. 033,Oghara,2024-10-08,,Yes
+560,1560,Adebayo,Danladi,319,12,Male,2014-04-29,2024-02-10,False,10,70855 Calvin Trail Suite 976,Asaba,2024-10-08,,Yes
+165,1165,Ahmed,Bello,499,4,Male,2011-12-25,2024-02-20,False,13,841 Derek Manors Suite 743,Ozoro,2024-10-08,,Yes
+334,1334,Obinna,Nnamdi,598,7,Female,2008-07-03,2024-02-08,False,16,208 John Drive Suite 314,Burutu,2024-10-08,,Yes
+498,1498,Adebayo,Nnamdi,327,10,Male,2010-09-03,2024-02-10,False,14,110 Simpson Motorway Apt. 894,Abraka,2024-10-08,,Yes
+526,1526,Adebayo,Okeke,459,11,Male,2014-08-17,2024-02-15,False,10,70855 Calvin Trail Suite 976,Oghara,2024-10-08,,Yes
+587,1587,Chinedu,Danladi,300,12,Female,2009-12-17,2024-02-13,False,15,9483 Andrew Mission Suite 812,Ughelli,2024-10-08,,Yes
+524,1524,Chinaza,Adeyemi,247,11,Male,2012-09-12,2024-02-09,False,12,31070 Brown Harbor,Asaba,2024-10-08,,Yes
+224,1224,Bola,Danladi,439,5,Male,2010-12-03,2024-02-18,False,14,9610 Torres Way Apt. 377,Ughelli,2024-10-08,,Yes
+558,1558,Ibrahim,Eze,339,12,Female,2009-05-23,2024-02-15,False,15,0326 Melinda Club,Sapele,2024-10-08,,Yes
+112,1112,Obinna,Abimbola,361,3,Female,2012-07-28,2024-02-09,False,12,48268 Thomas Stravenue Apt. 974,Asaba,2024-10-08,,Yes
+17,1017,Kemi,Danladi,490,1,Male,2014-04-14,2024-02-16,False,10,9330 Wayne Islands Apt. 033,Sapele,2024-10-08,,Yes
+381,1381,Ifeanyi,Nnamdi,400,8,Male,2010-01-20,2024-02-13,False,14,31070 Brown Harbor,Warri,2024-10-08,,Yes
+160,1160,Obinna,Abdullahi,166,4,Male,2014-08-09,2024-02-13,False,10,34692 Heather Greens Suite 181,Oghara,2024-10-08,,Yes
+592,1592,Obinna,Danladi,530,12,Male,2010-10-30,2024-02-15,False,14,5550 Smith Alley Suite 852,Ozoro,2024-10-08,,Yes
+437,1437,Chinaza,Okeke,210,9,Male,2010-05-03,2024-02-09,False,14,5550 Smith Alley Suite 852,Oleh,2024-10-08,,Yes
+528,1528,Bola,Danladi,566,11,Female,2011-08-14,2024-02-07,False,13,64919 Brittany Mews Suite 624,Oleh,2024-10-08,,Yes
+182,1182,Obinna,Bello,144,4,Male,2013-08-26,2024-02-19,False,11,39310 Garcia Hill Apt. 435,Oghara,2024-10-08,,Yes
+514,1514,Kemi,Olawale,475,11,Female,2011-01-07,2024-02-12,False,13,866 Schultz Port Suite 781,Sapele,2024-10-08,,Yes
+256,1256,Ahmed,Olawale,523,6,Female,2012-11-15,2024-02-09,False,12,356 Martinez Forge,Koko,2024-10-08,,Yes
+101,1101,Kemi,Okeke,184,3,Male,2012-04-22,2024-02-07,False,12,841 Derek Manors Suite 743,Ughelli,2024-10-08,,Yes
+55,1055,Kemi,Okeke,369,2,Female,2011-03-07,2024-02-15,False,13,982 Brandon Village,Burutu,2024-10-08,,Yes
+271,1271,Ahmed,Bello,353,6,Female,2013-12-20,2024-02-19,False,11,49690 Romero Vista Apt. 545,Agbor,2024-10-08,,Yes
+407,1407,Kemi,Nnamdi,358,9,Male,2010-03-13,2024-02-13,False,14,7947 Cook Mission Apt. 516,Koko,2024-10-08,,Yes
+456,1456,Ifeanyi,Adeyemi,414,10,Female,2008-12-10,2024-02-07,False,16,84062 Mason Pine,Oghara,2024-10-08,,Yes
+512,1512,Adebayo,Olawale,318,11,Male,2012-06-15,2024-02-16,False,12,49690 Romero Vista Apt. 545,Agbor,2024-10-08,,Yes
+464,1464,Ahmed,Adeyemi,217,10,Male,2013-05-29,2024-02-07,False,11,9088 Shelly Manor Suite 704,Warri,2024-10-08,,Yes
+422,1422,Ifeanyi,Bello,478,9,Male,2010-02-10,2024-02-11,False,14,839 Sheppard Isle Suite 665,Sapele,2024-10-08,,Yes
+14,1014,Bola,Abimbola,259,1,Male,2009-02-06,2024-02-09,False,15,34692 Heather Greens Suite 181,Agbor,2024-10-08,,Yes
+599,1599,Chinaza,Abdullahi,595,12,Male,2011-06-15,2024-02-07,False,13,7746 Martin Key,Oghara,2024-10-08,,Yes
+427,1427,Chinaza,Bello,367,9,Female,2014-01-07,2024-02-20,False,10,77892 Turner Mountain,Oghara,2024-10-08,,Yes
+254,1254,Ahmed,Olawale,136,6,Male,2013-12-29,2024-02-20,False,11,03578 Reese Trafficway Apt. 662,Agbor,2024-10-08,,Yes
+478,1478,Chinedu,Bello,293,10,Male,2008-11-21,2024-02-14,False,16,9088 Shelly Manor Suite 704,Agbor,2024-10-08,,Yes
+87,1087,Ibrahim,Okeke,544,2,Female,2010-01-03,2024-02-19,False,14,551 Sarah Courts,Koko,2024-10-08,,Yes
+305,1305,Bola,Nnamdi,394,7,Male,2012-11-02,2024-02-09,False,12,5550 Smith Alley Suite 852,Asaba,2024-10-08,,Yes
+320,1320,Chinedu,Olawale,374,7,Female,2012-08-23,2024-02-14,False,12,84062 Mason Pine,Sapele,2024-10-08,,Yes
+350,1350,Chinedu,Adeyemi,277,7,Female,2008-04-20,2024-02-07,False,16,1495 Rodgers Lake,Sapele,2024-10-08,,Yes
+328,1328,Chinedu,Abdullahi,118,7,Female,2014-08-27,2024-02-10,False,10,28290 Glover Valley Apt. 282,Warri,2024-10-08,,Yes
+458,1458,Obinna,Abdullahi,480,10,Female,2012-04-19,2024-02-17,False,12,8708 Adkins Springs,Sapele,2024-10-08,,Yes
+239,1239,Bola,Adeyemi,255,5,Female,2014-09-30,2024-02-08,False,10,7947 Cook Mission Apt. 516,Oleh,2024-10-08,,Yes
+151,1151,Ahmed,Danladi,529,4,Female,2012-04-26,2024-02-12,False,12,86689 Cole Orchard,Warri,2024-10-08,,Yes
+316,1316,Ahmed,Abimbola,577,7,Female,2009-01-03,2024-02-17,False,15,551 Sarah Courts,Sapele,2024-10-08,,Yes
+113,1113,Ifeanyi,Adeyemi,212,3,Male,2010-01-18,2024-02-17,False,14,4793 Mark Unions Suite 964,Ughelli,2024-10-08,,Yes
+10,1010,Ibrahim,Nnamdi,155,1,Female,2012-04-10,2024-02-20,False,12,839 Sheppard Isle Suite 665,Sapele,2024-10-08,,Yes
+444,1444,Adebayo,Adeyemi,266,9,Male,2009-03-17,2024-02-09,False,15,57510 Ryan Plaza Apt. 485,Warri,2024-10-08,,Yes
+580,1580,Chinaza,Okeke,188,12,Female,2013-11-26,2024-02-17,False,11,356 Martinez Forge,Patani,2024-10-08,,Yes
+220,1220,Ahmed,Olawale,258,5,Male,2008-11-12,2024-02-09,False,16,4793 Mark Unions Suite 964,Koko,2024-10-08,,Yes
+411,1411,Ahmed,Nnamdi,527,9,Female,2008-12-18,2024-02-19,False,16,7746 Martin Key,Ughelli,2024-10-08,,Yes
+304,1304,Obinna,Olawale,263,7,Male,2011-04-13,2024-02-19,False,13,208 John Drive Suite 314,Oleh,2024-10-08,,Yes
+364,1364,Chinedu,Abdullahi,308,8,Male,2010-01-25,2024-02-07,False,14,822 Susan Trace Suite 988,Sapele,2024-10-08,,Yes
+248,1248,Ifeanyi,Bello,521,5,Male,2011-02-18,2024-02-15,False,13,845 Casey Alley,Asaba,2024-10-08,,Yes
+233,1233,Kemi,Eze,236,5,Female,2011-05-26,2024-02-18,False,13,39310 Garcia Hill Apt. 435,Oleh,2024-10-08,,Yes
+122,1122,Ahmed,Okeke,337,3,Female,2007-12-28,2024-02-18,False,17,141 Greer Village,Oleh,2024-10-08,,Yes
+491,1491,Ngozi,Nnamdi,386,10,Male,2008-05-04,2024-02-12,False,16,03578 Reese Trafficway Apt. 662,Ughelli,2024-10-08,,Yes
+482,1482,Bola,Danladi,358,10,Male,2008-05-06,2024-02-18,False,16,77892 Turner Mountain,Burutu,2024-10-08,,Yes
+533,1533,Kemi,Danladi,499,11,Male,2010-10-25,2024-02-12,False,14,97238 Gonzales Green,Ughelli,2024-10-08,,Yes
+463,1463,Ahmed,Abdullahi,569,10,Female,2013-12-04,2024-02-16,False,11,141 Greer Village,Oleh,2024-10-08,,Yes
+522,1522,Chinaza,Nnamdi,337,11,Male,2010-03-14,2024-02-12,False,14,63052 Griffith Ferry Apt. 307,Patani,2024-10-08,,Yes
+443,1443,Chinedu,Bello,448,9,Male,2007-11-29,2024-02-19,False,17,49690 Romero Vista Apt. 545,Sapele,2024-10-08,,Yes
+598,1598,Chinedu,Olawale,387,12,Female,2010-10-19,2024-02-10,False,14,982 Brandon Village,Ughelli,2024-10-08,,Yes
+195,1195,Ahmed,Nnamdi,255,4,Male,2014-05-12,2024-02-17,False,10,34692 Heather Greens Suite 181,Oleh,2024-10-08,,Yes
+286,1286,Adebayo,Adeyemi,532,6,Male,2011-07-08,2024-02-08,False,13,866 Schultz Port Suite 781,Burutu,2024-10-08,,Yes
+489,1489,Ifeanyi,Nnamdi,340,10,Female,2009-08-16,2024-02-10,False,15,356 Martinez Forge,Sapele,2024-10-08,,Yes
+445,1445,Obinna,Abdullahi,205,9,Male,2014-03-24,2024-02-09,False,10,63052 Griffith Ferry Apt. 307,Sapele,2024-10-08,,Yes
+436,1436,Ibrahim,Danladi,413,9,Male,2010-09-13,2024-02-09,False,14,8708 Adkins Springs,Ughelli,2024-10-08,,Yes
+282,1282,Ngozi,Okeke,342,6,Female,2011-05-24,2024-02-09,False,13,841 Derek Manors Suite 743,Koko,2024-10-08,,Yes
+290,1290,Chinaza,Bello,254,6,Male,2008-06-12,2024-02-19,False,16,9088 Shelly Manor Suite 704,Asaba,2024-10-08,,Yes
+285,1285,Ifeanyi,Okeke,508,6,Female,2011-02-17,2024-02-13,False,13,64919 Brittany Mews Suite 624,Sapele,2024-10-08,,Yes
+41,1041,Adebayo,Okeke,235,1,Male,2013-06-03,2024-02-18,False,11,80899 Rachel Mission Apt. 927,Oleh,2024-10-08,,Yes
+7,1007,Ahmed,Bello,323,1,Male,2014-03-05,2024-02-10,False,10,982 Brandon Village,Ughelli,2024-10-08,,Yes
+375,1375,Ahmed,Bello,449,8,Male,2012-07-07,2024-02-20,False,12,839 Sheppard Isle Suite 665,Ozoro,2024-10-08,,Yes
+279,1279,Obinna,Nnamdi,566,6,Female,2009-07-04,2024-02-09,False,15,429 Walker Loaf Apt. 643,Asaba,2024-10-08,,Yes
+34,1034,Chinaza,Olawale,501,1,Male,2009-03-17,2024-02-17,False,15,551 Sarah Courts,Burutu,2024-10-08,,Yes
+235,1235,Adebayo,Eze,164,5,Female,2013-06-25,2024-02-15,False,11,06635 Helen Cliffs Suite 928,Oghara,2024-10-08,,Yes
+380,1380,Bola,Eze,103,8,Male,2009-08-13,2024-02-16,False,15,45029 David Glens Apt. 736,Ughelli,2024-10-08,,Yes
+541,1541,Chinaza,Nnamdi,294,11,Male,2012-04-13,2024-02-10,False,12,34692 Heather Greens Suite 181,Burutu,2024-10-08,,Yes
+590,1590,Ahmed,Abdullahi,529,12,Male,2011-09-13,2024-02-20,False,13,84062 Mason Pine,Agbor,2024-10-08,,Yes
+413,1413,Obinna,Eze,217,9,Male,2007-11-11,2024-02-11,False,17,39310 Garcia Hill Apt. 435,Warri,2024-10-08,,Yes
+417,1417,Ngozi,Danladi,223,9,Male,2014-05-09,2024-02-14,False,10,845 Casey Alley,Koko,2024-10-08,,Yes
+246,1246,Kemi,Olawale,525,5,Male,2013-07-28,2024-02-09,False,11,9088 Shelly Manor Suite 704,Asaba,2024-10-08,,Yes
+317,1317,Ifeanyi,Nnamdi,201,7,Male,2013-04-05,2024-02-13,False,11,9088 Shelly Manor Suite 704,Burutu,2024-10-08,,Yes
+260,1260,Ngozi,Bello,503,6,Female,2014-07-21,2024-02-10,False,10,80899 Rachel Mission Apt. 927,Koko,2024-10-08,,Yes
+73,1073,Obinna,Adeyemi,542,2,Female,2010-02-24,2024-02-18,False,14,86689 Cole Orchard,Oleh,2024-10-08,,Yes
+549,1549,Bola,Adeyemi,209,11,Female,2009-06-20,2024-02-10,False,15,48268 Thomas Stravenue Apt. 974,Ozoro,2024-10-08,,Yes
+183,1183,Ibrahim,Adeyemi,589,4,Male,2012-11-24,2024-02-16,False,12,110 Simpson Motorway Apt. 894,Warri,2024-10-08,,Yes
+363,1363,Ifeanyi,Nnamdi,140,8,Male,2010-04-08,2024-02-19,False,14,7911 Lyons Pines,Abraka,2024-10-08,,Yes
+306,1306,Bola,Adeyemi,307,7,Male,2010-09-02,2024-02-11,False,14,48268 Thomas Stravenue Apt. 974,Agbor,2024-10-08,,Yes
+342,1342,Ngozi,Nnamdi,287,7,Female,2009-02-01,2024-02-11,False,15,45643 Wilson Ferry,Warri,2024-10-08,,Yes
+569,1569,Ahmed,Adeyemi,390,12,Female,2010-08-21,2024-02-10,False,14,1495 Rodgers Lake,Ughelli,2024-10-08,,Yes
+476,1476,Ahmed,Okeke,288,10,Female,2008-04-06,2024-02-18,False,16,80899 Rachel Mission Apt. 927,Warri,2024-10-08,,Yes
+54,1054,Chinedu,Okeke,306,2,Male,2012-08-05,2024-02-12,False,12,7947 Cook Mission Apt. 516,Ughelli,2024-10-08,,Yes
+203,1203,Chinaza,Olawale,422,5,Male,2009-05-07,2024-02-20,False,15,4793 Mark Unions Suite 964,Warri,2024-10-08,,Yes
+36,1036,Ifeanyi,Abimbola,217,1,Female,2012-05-12,2024-02-13,False,12,52651 Amy Ports,Sapele,2024-10-08,,Yes
+296,1296,Ifeanyi,Danladi,544,6,Male,2013-10-23,2024-02-10,False,11,80899 Rachel Mission Apt. 927,Asaba,2024-10-08,,Yes
+138,1138,Kemi,Abimbola,313,3,Female,2010-01-30,2024-02-18,False,14,208 John Drive Suite 314,Ughelli,2024-10-08,,Yes
+259,1259,Ngozi,Adeyemi,158,6,Female,2011-10-17,2024-02-20,False,13,57510 Ryan Plaza Apt. 485,Asaba,2024-10-08,,Yes
+406,1406,Obinna,Adeyemi,385,9,Female,2012-12-19,2024-02-13,False,12,77892 Turner Mountain,Ughelli,2024-10-08,,Yes
+432,1432,Adebayo,Danladi,329,9,Male,2014-01-01,2024-02-10,False,10,0326 Melinda Club,Oleh,2024-10-08,,Yes
+278,1278,Chinedu,Okeke,539,6,Male,2012-06-25,2024-02-16,False,12,31070 Brown Harbor,Warri,2024-10-08,,Yes
+301,1301,Adebayo,Abdullahi,550,7,Female,2014-05-22,2024-02-20,False,10,845 Casey Alley,Abraka,2024-10-08,,Yes
+480,1480,Ngozi,Abdullahi,253,10,Male,2011-06-01,2024-02-13,False,13,3915 Lane Knolls,Oleh,2024-10-08,,Yes
+497,1497,Ifeanyi,Okeke,491,10,Male,2013-07-11,2024-02-14,False,11,841 Derek Manors Suite 743,Abraka,2024-10-08,,Yes
+366,1366,Adebayo,Nnamdi,254,8,Female,2008-04-10,2024-02-14,False,16,63052 Griffith Ferry Apt. 307,Agbor,2024-10-08,,Yes
+244,1244,Chinedu,Danladi,577,5,Male,2010-08-04,2024-02-11,False,14,0326 Melinda Club,Koko,2024-10-08,,Yes
+242,1242,Ngozi,Bello,514,5,Male,2013-07-06,2024-02-14,False,11,42656 Justin Heights Suite 611,Burutu,2024-10-08,,Yes
+26,1026,Ifeanyi,Okeke,111,1,Male,2012-10-13,2024-02-14,False,12,110 Simpson Motorway Apt. 894,Sapele,2024-10-08,,Yes
+542,1542,Obinna,Nnamdi,338,11,Female,2012-03-26,2024-02-08,False,12,97238 Gonzales Green,Burutu,2024-10-08,,Yes
+116,1116,Bola,Adeyemi,285,3,Male,2013-01-28,2024-02-17,False,11,3915 Lane Knolls,Oghara,2024-10-08,,Yes
+85,1085,Bola,Eze,568,2,Female,2014-05-24,2024-02-16,False,10,7947 Cook Mission Apt. 516,Abraka,2024-10-08,,Yes
+487,1487,Obinna,Adeyemi,147,10,Male,2013-03-18,2024-02-17,False,11,110 Simpson Motorway Apt. 894,Burutu,2024-10-08,,Yes
+414,1414,Ibrahim,Olawale,278,9,Female,2010-02-19,2024-02-12,False,14,356 Martinez Forge,Agbor,2024-10-08,,Yes
+145,1145,Obinna,Adeyemi,305,3,Female,2010-08-09,2024-02-14,False,14,72854 Rhodes Burg Suite 646,Sapele,2024-10-08,,Yes
+131,1131,Bola,Okeke,452,3,Female,2012-11-27,2024-02-19,False,12,97238 Gonzales Green,Ughelli,2024-10-08,,Yes
+311,1311,Ibrahim,Nnamdi,186,7,Male,2011-12-19,2024-02-17,False,13,72854 Rhodes Burg Suite 646,Patani,2024-10-08,,Yes
+481,1481,Adebayo,Abdullahi,375,10,Male,2009-03-08,2024-02-13,False,15,845 Casey Alley,Ozoro,2024-10-08,,Yes
+469,1469,Adebayo,Bello,467,10,Male,2009-01-17,2024-02-09,False,15,841 Derek Manors Suite 743,Koko,2024-10-08,,Yes
+71,1071,Kemi,Okeke,170,2,Male,2014-02-05,2024-02-09,False,10,03578 Reese Trafficway Apt. 662,Agbor,2024-10-08,,Yes
+356,1356,Ngozi,Okeke,158,8,Female,2012-07-14,2024-02-19,False,12,8708 Adkins Springs,Ughelli,2024-10-08,,Yes
+483,1483,Ifeanyi,Olawale,389,10,Female,2008-11-13,2024-02-15,False,16,839 Sheppard Isle Suite 665,Agbor,2024-10-08,,Yes
+543,1543,Adebayo,Adeyemi,214,11,Female,2007-10-31,2024-02-14,False,17,822 Susan Trace Suite 988,Ozoro,2024-10-08,,Yes
+210,1210,Chinaza,Danladi,197,5,Female,2010-09-17,2024-02-19,False,14,986 Mercer Street,Oghara,2024-10-08,,Yes
+534,1534,Ifeanyi,Eze,450,11,Female,2012-01-01,2024-02-07,False,12,9610 Torres Way Apt. 377,Warri,2024-10-08,,Yes
+536,1536,Chinaza,Abdullahi,106,11,Male,2013-09-19,2024-02-08,False,11,80899 Rachel Mission Apt. 927,Burutu,2024-10-08,,Yes
+508,1508,Adebayo,Abimbola,532,11,Male,2012-07-11,2024-02-16,False,12,1495 Rodgers Lake,Patani,2024-10-08,,Yes
+510,1510,Adebayo,Bello,259,11,Female,2011-04-21,2024-02-12,False,13,48268 Thomas Stravenue Apt. 974,Patani,2024-10-08,,Yes
+426,1426,Ahmed,Abimbola,571,9,Male,2010-10-04,2024-02-12,False,14,982 Brandon Village,Koko,2024-10-08,,Yes
+255,1255,Kemi,Danladi,589,6,Female,2010-03-19,2024-02-13,False,14,52651 Amy Ports,Patani,2024-10-08,,Yes
+353,1353,Chinaza,Danladi,215,8,Male,2010-11-08,2024-02-18,False,14,86689 Cole Orchard,Abraka,2024-10-08,,Yes
+358,1358,Obinna,Abimbola,268,8,Female,2010-05-27,2024-02-16,False,14,97238 Gonzales Green,Abraka,2024-10-08,,Yes
+225,1225,Ifeanyi,Olawale,326,5,Female,2011-08-30,2024-02-16,False,13,3915 Lane Knolls,Abraka,2024-10-08,,Yes
+66,1066,Chinedu,Abimbola,478,2,Male,2008-06-06,2024-02-07,False,16,822 Susan Trace Suite 988,Ughelli,2024-10-08,,Yes
+91,1091,Adebayo,Okeke,469,2,Male,2013-11-18,2024-02-18,False,11,4793 Mark Unions Suite 964,Asaba,2024-10-08,,Yes
+449,1449,Kemi,Danladi,160,9,Male,2007-12-29,2024-02-17,False,17,45029 David Glens Apt. 736,Sapele,2024-10-08,,Yes
+546,1546,Ifeanyi,Danladi,470,11,Female,2010-04-14,2024-02-11,False,14,86689 Cole Orchard,Ughelli,2024-10-08,,Yes
+47,1047,Ibrahim,Olawale,192,1,Female,2010-03-23,2024-02-10,False,14,3915 Lane Knolls,Sapele,2024-10-08,,Yes
+412,1412,Ngozi,Nnamdi,364,9,Female,2014-01-23,2024-02-07,False,10,72854 Rhodes Burg Suite 646,Abraka,2024-10-08,,Yes
+69,1069,Ngozi,Okeke,600,2,Female,2013-01-07,2024-02-11,False,11,49690 Romero Vista Apt. 545,Asaba,2024-10-08,,Yes
+99,1099,Ibrahim,Abimbola,519,2,Female,2010-11-22,2024-02-08,False,14,839 Sheppard Isle Suite 665,Warri,2024-10-08,,Yes
+302,1302,Kemi,Abimbola,368,7,Female,2009-05-10,2024-02-17,False,15,3915 Lane Knolls,Burutu,2024-10-08,,Yes
+513,1513,Bola,Bello,246,11,Female,2011-08-26,2024-02-10,False,13,208 John Drive Suite 314,Sapele,2024-10-08,,Yes
+206,1206,Ifeanyi,Danladi,146,5,Female,2012-12-28,2024-02-10,False,12,141 Greer Village,Abraka,2024-10-08,,Yes
+177,1177,Ibrahim,Abdullahi,595,4,Female,2014-05-29,2024-02-10,False,10,3915 Lane Knolls,Oleh,2024-10-08,,Yes
+3,1003,Kemi,Eze,373,1,Female,2008-02-19,2024-02-09,False,16,9088 Shelly Manor Suite 704,Oghara,2024-10-08,,Yes
+221,1221,Bola,Nnamdi,282,5,Female,2010-10-22,2024-02-11,False,14,841 Derek Manors Suite 743,Oghara,2024-10-08,,Yes
+361,1361,Ahmed,Nnamdi,553,8,Male,2012-12-29,2024-02-18,False,12,57510 Ryan Plaza Apt. 485,Ozoro,2024-10-08,,Yes
+108,1108,Ifeanyi,Okeke,547,3,Female,2008-02-01,2024-02-19,False,16,9483 Andrew Mission Suite 812,Burutu,2024-10-08,,Yes
+322,1322,Obinna,Okeke,479,7,Male,2014-05-13,2024-02-18,False,10,141 Greer Village,Abraka,2024-10-08,,Yes
+343,1343,Ahmed,Nnamdi,270,7,Female,2010-07-25,2024-02-09,False,14,77892 Turner Mountain,Abraka,2024-10-08,,Yes
+314,1314,Ngozi,Okeke,149,7,Male,2008-02-25,2024-02-11,False,16,64919 Brittany Mews Suite 624,Warri,2024-10-08,,Yes
+577,1577,Bola,Olawale,493,12,Male,2008-04-19,2024-02-18,False,16,5550 Smith Alley Suite 852,Burutu,2024-10-08,,Yes
+535,1535,Ibrahim,Olawale,192,11,Male,2014-08-10,2024-02-07,False,10,7947 Cook Mission Apt. 516,Patani,2024-10-08,,Yes
+152,1152,Chinedu,Okeke,366,4,Female,2014-05-11,2024-02-09,False,10,8708 Adkins Springs,Asaba,2024-10-08,,Yes
+104,1104,Chinedu,Nnamdi,497,3,Female,2010-07-26,2024-02-12,False,14,110 Simpson Motorway Apt. 894,Abraka,2024-10-08,,Yes
+442,1442,Ibrahim,Danladi,564,9,Female,2012-01-31,2024-02-09,False,12,845 Casey Alley,Agbor,2024-10-08,,Yes
+297,1297,Ngozi,Nnamdi,428,6,Female,2009-12-25,2024-02-13,False,15,141 Greer Village,Ughelli,2024-10-08,,Yes
+494,1494,Ahmed,Abdullahi,383,10,Male,2008-06-11,2024-02-07,False,16,28290 Glover Valley Apt. 282,Ozoro,2024-10-08,,Yes
+170,1170,Adebayo,Olawale,283,4,Female,2012-01-12,2024-02-11,False,12,551 Sarah Courts,Koko,2024-10-08,,Yes
+258,1258,Bola,Adeyemi,404,6,Female,2008-10-02,2024-02-15,False,16,70855 Calvin Trail Suite 976,Ughelli,2024-10-08,,Yes
+550,1550,Chinaza,Nnamdi,105,11,Female,2011-02-03,2024-02-09,False,13,86689 Cole Orchard,Oleh,2024-10-08,,Yes
+132,1132,Adebayo,Olawale,210,3,Male,2010-02-12,2024-02-14,False,14,42656 Justin Heights Suite 611,Abraka,2024-10-08,,Yes
+415,1415,Ifeanyi,Danladi,258,9,Female,2009-10-11,2024-02-16,False,15,551 Sarah Courts,Sapele,2024-10-08,,Yes
+362,1362,Chinedu,Danladi,564,8,Female,2011-07-09,2024-02-07,False,13,9483 Andrew Mission Suite 812,Ughelli,2024-10-08,,Yes
+585,1585,Ifeanyi,Danladi,107,12,Female,2010-11-30,2024-02-20,False,14,06635 Helen Cliffs Suite 928,Patani,2024-10-08,,Yes
+460,1460,Ifeanyi,Okeke,326,10,Female,2012-09-28,2024-02-15,False,12,841 Derek Manors Suite 743,Agbor,2024-10-08,,Yes
+338,1338,Ifeanyi,Eze,351,7,Male,2013-03-13,2024-02-07,False,11,141 Greer Village,Koko,2024-10-08,,Yes
+555,1555,Obinna,Abimbola,576,12,Female,2009-08-08,2024-02-14,False,15,45029 David Glens Apt. 736,Patani,2024-10-08,,Yes
+98,1098,Kemi,Olawale,380,2,Male,2010-06-25,2024-02-07,False,14,45029 David Glens Apt. 736,Ughelli,2024-10-08,,Yes
+46,1046,Bola,Bello,474,1,Male,2008-11-04,2024-02-14,False,16,06635 Helen Cliffs Suite 928,Agbor,2024-10-08,,Yes
+335,1335,Ahmed,Abimbola,414,7,Female,2011-06-03,2024-02-07,False,13,4354 Amanda Parkway,Abraka,2024-10-08,,Yes
+576,1576,Chinaza,Nnamdi,129,12,Female,2010-03-20,2024-02-17,False,14,7911 Lyons Pines,Ughelli,2024-10-08,,Yes
+565,1565,Ahmed,Nnamdi,309,12,Male,2008-03-13,2024-02-13,False,16,06635 Helen Cliffs Suite 928,Ozoro,2024-10-08,,Yes
+402,1402,Ngozi,Okeke,435,9,Female,2012-12-10,2024-02-12,False,12,28290 Glover Valley Apt. 282,Patani,2024-10-08,,Yes
+120,1120,Kemi,Nnamdi,270,3,Male,2014-08-14,2024-02-20,False,10,45643 Wilson Ferry,Oghara,2024-10-08,,Yes
+346,1346,Bola,Nnamdi,247,7,Female,2014-08-14,2024-02-09,False,10,45029 David Glens Apt. 736,Patani,2024-10-08,,Yes
+249,1249,Kemi,Olawale,177,5,Female,2013-08-12,2024-02-14,False,11,63052 Griffith Ferry Apt. 307,Burutu,2024-10-08,,Yes
+578,1578,Kemi,Adeyemi,551,12,Male,2010-10-10,2024-02-11,False,14,110 Simpson Motorway Apt. 894,Ughelli,2024-10-08,,Yes
+65,1065,Ngozi,Eze,592,2,Male,2014-02-15,2024-02-08,False,10,77892 Turner Mountain,Burutu,2024-10-08,,Yes
+186,1186,Ahmed,Abimbola,457,4,Female,2012-12-09,2024-02-16,False,12,45643 Wilson Ferry,Asaba,2024-10-08,,Yes
+247,1247,Adebayo,Bello,198,5,Female,2013-01-27,2024-02-08,False,11,80899 Rachel Mission Apt. 927,Oghara,2024-10-08,,Yes
+470,1470,Ngozi,Okeke,524,10,Male,2008-08-07,2024-02-11,False,16,5550 Smith Alley Suite 852,Burutu,2024-10-08,,Yes
+496,1496,Chinedu,Okeke,216,10,Male,2014-06-17,2024-02-12,False,10,72854 Rhodes Burg Suite 646,Ughelli,2024-10-08,,Yes
+504,1504,Chinaza,Nnamdi,419,11,Male,2010-07-04,2024-02-13,False,14,28290 Glover Valley Apt. 282,Warri,2024-10-08,,Yes
+492,1492,Ngozi,Nnamdi,214,10,Female,2012-05-25,2024-02-15,False,12,31070 Brown Harbor,Sapele,2024-10-08,,Yes
+433,1433,Ifeanyi,Bello,552,9,Female,2009-03-07,2024-02-13,False,15,4793 Mark Unions Suite 964,Ughelli,2024-10-08,,Yes
+287,1287,Ibrahim,Olawale,599,6,Male,2012-12-14,2024-02-08,False,12,429 Walker Loaf Apt. 643,Koko,2024-10-08,,Yes
+396,1396,Ifeanyi,Nnamdi,397,8,Male,2008-08-17,2024-02-11,False,16,845 Casey Alley,Abraka,2024-10-08,,Yes
+261,1261,Obinna,Okeke,478,6,Female,2007-12-25,2024-02-07,False,17,06635 Helen Cliffs Suite 928,Asaba,2024-10-08,,Yes
+493,1493,Bola,Eze,492,10,Male,2011-03-14,2024-02-17,False,13,06635 Helen Cliffs Suite 928,Ughelli,2024-10-08,,Yes
+128,1128,Obinna,Danladi,185,3,Female,2011-03-20,2024-02-10,False,13,1495 Rodgers Lake,Burutu,2024-10-08,,Yes
+376,1376,Ngozi,Eze,122,8,Female,2010-12-22,2024-02-08,False,14,7746 Martin Key,Ozoro,2024-10-08,,Yes
+465,1465,Ahmed,Okeke,437,10,Female,2008-08-18,2024-02-09,False,16,866 Schultz Port Suite 781,Agbor,2024-10-08,,Yes
+515,1515,Ngozi,Olawale,353,11,Male,2008-06-11,2024-02-10,False,16,45643 Wilson Ferry,Patani,2024-10-08,,Yes
+393,1393,Chinedu,Eze,211,8,Male,2011-06-20,2024-02-16,False,13,986 Mercer Street,Koko,2024-10-08,,Yes

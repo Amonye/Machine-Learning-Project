@@ -1,0 +1,61 @@
+teacher_id,first_name,last_name,gender,date_of_birth,qualification,years_of_experience,subject_expertise,department,contact_number,hire_date,salary,category
+1,Funke,Danladi,Male,1990-07-11,Bachelors,9,Mathematics,Sciences,07055713979,2022-01-02,180000,Senior
+2,Ifeanyi,Balogun,Female,1996-03-30,PGDE,2,Mathematics,Sciences,07031696852,2022-08-11,200000,Entry-Level
+3,Ada,Adenuga,Female,1995-11-09,NCE,4,Mathematics,Sciences,07040280626,2022-01-18,50000,Experienced
+4,Ibrahim,Balogun,Male,1994-07-24,NCE,9,English,Arts,08054130276,2022-03-20,65000,Senior
+5,Amara,Abdullahi,Female,1993-06-13,NCE,7,English,Arts,08013400888,2022-09-01,65000,Senior
+6,Ibrahim,Adebayo,Female,1987-09-25,Bachelors,9,English,Arts,08023438253,2022-03-27,120000,Senior
+7,Gbenga,Adeyemi,Male,1989-02-27,NCE,0,Basic Sciences,Sciences,07052626944,2022-06-06,45000,Entry-Level
+8,Chinedu,Olawale,Male,1996-12-21,NCE,1,Basic Sciences,Sciences,07035244315,2022-07-14,45000,Entry-Level
+9,Kemi,Bello,Male,1984-05-29,Bachelors,5,Basic Sciences,Sciences,07050834667,2022-06-28,80000,Experienced
+10,Isioma,Abimbola,Male,1983-03-03,NCE,10,Vocational Studies,Vocational,07075694225,2022-07-27,65000,Senior
+11,Isioma,Eze,Female,1982-08-12,NCE,4,Vocational Studies,Vocational,07055989614,2022-05-06,50000,Experienced
+12,Chinaza,Olawale,Male,1986-11-20,NCE,0,Vocational Studies,Vocational,07034724419,2022-05-28,45000,Entry-Level
+13,Adebayo,Aliyu,Female,1996-06-18,NCE,3,Literature,Arts,07059206669,2022-11-02,50000,Experienced
+14,Olu,Umar,Female,1995-09-11,NCE,6,Literature,Arts,08034577128,2022-01-23,90000,Senior
+15,Adamu,Adeyemi,Female,1987-06-07,NCE,9,Literature,Arts,08090309247,2022-12-01,90000,Senior
+16,Yusuf,Adenuga,Male,2001-09-24,Bachelors,2,History,Arts,08032230998,2022-05-27,70000,Entry-Level
+17,Amara,Adeyemi,Female,1997-11-28,NCE,5,History,Arts,07010471556,2022-04-11,50000,Experienced
+18,Bola,Eze,Female,2000-02-03,NCE,4,History,Arts,07053442143,2022-05-24,200000,Experienced
+19,Bola,Okeke,Male,1994-07-17,PGDE,7,French,Arts,07021927270,2022-11-02,200000,Senior
+20,Bola,Adebayo,Female,1988-06-06,NCE,1,French,Arts,08011949385,2022-03-23,45000,Entry-Level
+21,Isioma,Danladi,Female,1995-06-11,NCE,10,French,Arts,08021733846,2022-09-18,65000,Senior
+22,Ngozi,Balogun,Male,1986-05-23,NCE,7,Physical Education,Vocational,08095007085,2022-03-23,70000,Senior
+23,Ibrahim,Okeke,Female,1992-02-21,NCE,6,Physical Education,Vocational,07064288985,2022-07-19,65000,Senior
+24,Ngozi,Adebayo,Male,1992-07-09,NCE,2,Physical Education,Vocational,07083519618,2022-01-25,65000,Entry-Level
+25,Adamu,Nnamdi,Male,1989-09-23,NCE,7,CRS,Arts,07097879229,2022-12-27,65000,Senior
+26,Funke,Bello,Female,1994-08-23,NCE,10,CRS,Arts,07052473404,2022-04-10,65000,Senior
+27,Obinna,Adebayo,Female,1995-01-13,NCE,10,CRS,Arts,07084471033,2022-09-09,65000,Senior
+28,Olu,Danladi,Female,1980-12-19,NCE,10,Agricultural Science,Sciences,08023001800,2022-03-09,70000,Senior
+29,Ada,Umar,Female,1999-09-07,PGDE,9,Agricultural Science,Sciences,08031728043,2022-06-25,50000,Senior
+30,Chinaza,Danladi,Male,1997-02-14,NCE,5,Agricultural Science,Sciences,07097323832,2022-11-03,50000,Experienced
+31,Bola,Bello,Female,1986-05-30,NCE,5,Mathematics,Sciences,07063412747,2022-11-04,200000,Experienced
+32,Tolu,Abimbola,Female,2000-11-18,Bachelors,6,Mathematics,Sciences,08026130492,2022-02-13,180000,Senior
+33,Adamu,Nnamdi,Female,1984-05-07,Bachelors,9,Mathematics,Sciences,07075022640,2022-06-16,180000,Senior
+34,Yusuf,Eze,Male,1993-11-11,PGDE,3,English,Arts,07077714723,2022-09-29,50000,Experienced
+35,Fatima,Abdullahi,Female,1986-10-25,NCE,6,English,Arts,08055024903,2022-07-13,70000,Senior
+36,Ada,Umar,Female,1983-10-19,NCE,1,English,Arts,08013904747,2022-01-12,45000,Entry-Level
+37,Ada,Eze,Female,1997-11-09,NCE,1,Literature,Arts,08017501022,2022-10-19,45000,Entry-Level
+38,Ngozi,Umar,Female,1993-05-24,NCE,9,Literature,Arts,07085054652,2022-06-03,90000,Senior
+39,Olu,Eze,Female,1985-03-02,NCE,4,Literature,Arts,08087341163,2022-05-18,50000,Experienced
+40,Ahmed,Danladi,Female,1986-12-23,NCE,10,Agricultural Science,Sciences,08024326993,2022-03-09,65000,Senior
+41,Gbenga,Eze,Female,1998-05-21,Bachelors,9,Agricultural Science,Sciences,07035638980,2022-10-18,150000,Senior
+42,Chinedu,Okeke,Male,1981-10-10,NCE,5,Agricultural Science,Sciences,07018917842,2022-07-18,200000,Experienced
+43,Ngozi,Bello,Male,1989-06-15,NCE,8,Biology,Sciences,08013115406,2022-07-04,70000,Senior
+44,Ifeanyi,Abimbola,Female,1990-04-17,NCE,0,Biology,Sciences,07029115103,2022-11-04,45000,Entry-Level
+45,Chinedu,Abimbola,Female,1992-10-06,NCE,3,Biology,Sciences,08098498233,2022-07-27,200000,Experienced
+46,Ibrahim,Abimbola,Female,1989-03-13,Masters,2,Physics,Sciences,07064201593,2022-06-24,50000,Entry-Level
+47,Gbenga,Umar,Male,1984-02-24,NCE,9,Physics,Sciences,08098618997,2022-10-22,90000,Senior
+48,Yusuf,Nnamdi,Female,1986-09-06,NCE,5,Physics,Sciences,07011577148,2022-11-07,50000,Experienced
+49,Ibrahim,Okeke,Female,2000-06-21,Masters,0,Chemistry,Sciences,07040271696,2022-09-28,200000,Entry-Level
+50,Gbenga,Olawale,Male,1986-08-15,Bachelors,6,Chemistry,Sciences,07045581688,2022-11-18,150000,Senior
+51,Ngozi,Balogun,Female,1996-02-29,NCE,8,Chemistry,Sciences,07056666477,2022-07-27,90000,Senior
+52,Tolu,Balogun,Female,1998-05-06,NCE,8,Government,Arts,07097675801,2022-04-05,90000,Senior
+53,Adebayo,Olawale,Female,1988-10-16,NCE,8,Government,Arts,07013612747,2022-04-18,70000,Senior
+54,Chinedu,Danladi,Male,1998-03-21,Masters,5,Government,Arts,08023633034,2022-01-25,100000,Experienced
+55,Ahmed,Adebayo,Female,1993-10-19,Masters,3,Economics,Social Studies,07060670843,2022-10-25,120000,Experienced
+56,Ibrahim,Okeke,Male,1996-11-13,NCE,8,Economics,Social Studies,08052646485,2022-01-09,90000,Senior
+57,Funke,Adeyemi,Male,1991-09-12,NCE,9,Economics,Social Studies,08019002152,2022-10-30,65000,Senior
+58,Ibrahim,Abimbola,Female,1990-07-24,NCE,7,Geography,Sciences,07040863211,2022-07-05,70000,Senior
+59,Isioma,Aliyu,Male,2000-10-18,Bachelors,7,Geography,Sciences,08046346956,2022-01-24,150000,Senior
+60,Chinedu,Bello,Female,1996-10-20,NCE,6,Geography,Sciences,08055401710,2022-05-02,90000,Senior

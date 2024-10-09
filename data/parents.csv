@@ -1,0 +1,501 @@
+parent_id,first_name,last_name,occupation,education_level,income_bracket,parent_contact
+101,Fatima,Umar,Business,Secondary,Low,08059668240
+102,Gbenga,Abimbola,Education,Tertiary,Low,08046175474
+103,Funke,Umar,Retired,Primary,Low,08013392442
+104,Adamu,Olawale,Healthcare,Tertiary,Low,08027987779
+105,Chinaza,Eze,Engineering,Tertiary,Low,08025990927
+106,Bola,Adenuga,Engineering,Tertiary,Low,08084358134
+107,Isioma,Danladi,Engineering,Tertiary,Low,07052865059
+108,Chinaza,Bello,Business,Secondary,Low,08028467550
+109,Amara,Umar,Skilled Trades,Primary,Low,08073160552
+110,Fatima,Olawale,Technology,Tertiary,Low,08027631966
+111,Amara,Aliyu,Healthcare,Tertiary,Low,08099716591
+112,Isioma,Bello,Retired,Primary,Low,07000030536
+113,Yusuf,Adenuga,Technology,Tertiary,Low,08077066926
+114,Olu,Danladi,Retired,Primary,Low,07082780204
+115,Ahmed,Umar,Skilled Trades,Primary,Low,07036207530
+116,Ifeanyi,Abimbola,Unemployed,Secondary,Low,07080279892
+117,Ibrahim,Danladi,Unemployed,Primary,Low,08082684645
+118,Adebayo,Adebayo,Healthcare,Tertiary,Low,08037391444
+119,Obinna,Olawale,Service Industry,Secondary,Low,07040118781
+120,Tolu,Adeyemi,Business,Primary,Low,07005517295
+121,Funke,Adeyemi,Business,Secondary,Low,07047535533
+122,Tolu,Eze,Technology,Tertiary,Low,08003224657
+123,Funke,Abdullahi,Engineering,Tertiary,Low,07077476025
+124,Amara,Bello,Unemployed,Primary,Low,07018619662
+125,Ifeanyi,Abdullahi,Engineering,Tertiary,Low,07067085115
+126,Kemi,Nnamdi,Education,Tertiary,Low,08083507752
+127,Gbenga,Adeyemi,Technology,Tertiary,Low,08091221624
+128,Adebayo,Danladi,Business,Primary,Low,08031112577
+129,Chinaza,Adeyemi,Service Industry,Secondary,Low,08042610756
+130,Ibrahim,Umar,Healthcare,Tertiary,Low,07005781564
+131,Bola,Adeyemi,Technology,Tertiary,Low,08088377551
+132,Amara,Adenuga,Business,Primary,Low,08030744696
+133,Kemi,Abdullahi,Engineering,Tertiary,Low,08021296898
+134,Funke,Adebayo,Unemployed,Primary,Low,08095323412
+135,Amara,Nnamdi,Business,Tertiary,Low,07016935333
+136,Adebayo,Eze,Technology,Tertiary,Low,08034253221
+137,Adebayo,Nnamdi,Education,Tertiary,Low,08067243657
+138,Chinaza,Nnamdi,Service Industry,Primary,Low,07060521843
+139,Ada,Aliyu,Skilled Trades,Primary,Low,07017754906
+140,Isioma,Nnamdi,Healthcare,Tertiary,Low,08010303405
+141,Adebayo,Adeyemi,Unemployed,Secondary,Low,08064269935
+142,Amara,Aliyu,Retired,Primary,Low,07073604238
+143,Ngozi,Abimbola,Skilled Trades,Secondary,Low,07088156739
+144,Adamu,Adeyemi,Business,Primary,Low,08016737982
+145,Fatima,Adebayo,Unemployed,Secondary,Low,08089708621
+146,Ifeanyi,Aliyu,Service Industry,Primary,Low,08040188159
+147,Olu,Aliyu,Skilled Trades,Tertiary,Low,08069052419
+148,Funke,Umar,Retired,Primary,Low,08028379194
+149,Yusuf,Abimbola,Business,Secondary,Low,07020318559
+150,Yusuf,Adebayo,Engineering,Tertiary,Low,07031724289
+151,Isioma,Aliyu,Unemployed,Secondary,Low,08005528713
+152,Amara,Eze,Education,Tertiary,Low,08073436178
+153,Adamu,Aliyu,Business,Tertiary,Low,07016134738
+154,Funke,Abdullahi,Engineering,Tertiary,Low,08079015558
+155,Adebayo,Eze,Service Industry,Secondary,Low,08060220219
+156,Obinna,Umar,Skilled Trades,Primary,Low,08041084732
+157,Gbenga,Balogun,Technology,Tertiary,Low,07030430750
+158,Ada,Nnamdi,Education,Tertiary,Low,08014639896
+159,Kemi,Adebayo,Education,Tertiary,Low,07070344059
+160,Amara,Adebayo,Technology,Tertiary,Low,08008565297
+161,Ahmed,Umar,Business,Secondary,Low,08052393479
+162,Isioma,Aliyu,Healthcare,Tertiary,Low,07095020642
+163,Chinedu,Adenuga,Retired,Primary,Low,08029881774
+164,Kemi,Okeke,Engineering,Tertiary,Low,08003029165
+165,Yusuf,Adeyemi,Education,Tertiary,Low,08014170420
+166,Kemi,Bello,Retired,Primary,Low,07019356375
+167,Tolu,Abimbola,Unemployed,Primary,Low,08072301115
+168,Adebayo,Abdullahi,Retired,Primary,Low,07002422363
+169,Ifeanyi,Olawale,Skilled Trades,Secondary,Low,07054286920
+170,Chinaza,Adebayo,Service Industry,Tertiary,Low,07019165365
+171,Funke,Nnamdi,Technology,Tertiary,Low,08030301069
+172,Ahmed,Balogun,Technology,Tertiary,Low,08015979661
+173,Adebayo,Abdullahi,Business,Primary,Low,08094228016
+174,Tolu,Adeyemi,Business,Primary,Low,08037756166
+175,Adamu,Umar,Engineering,Tertiary,Low,07026441550
+176,Ngozi,Adenuga,Education,Tertiary,Low,08095729872
+177,Amara,Danladi,Business,Primary,Low,08096190502
+178,Fatima,Abimbola,Service Industry,Secondary,Low,07096325932
+179,Gbenga,Abdullahi,Healthcare,Tertiary,Low,07039930878
+180,Funke,Eze,Skilled Trades,Primary,Low,07020451587
+181,Amara,Adeyemi,Engineering,Tertiary,Low,08020251574
+182,Ahmed,Adenuga,Engineering,Tertiary,Low,07000964573
+183,Obinna,Abdullahi,Unemployed,Secondary,Low,07087081840
+184,Tolu,Balogun,Skilled Trades,Secondary,Low,07094067936
+185,Ahmed,Abdullahi,Unemployed,Primary,Low,08051086173
+186,Ngozi,Bello,Engineering,Tertiary,Low,07054214251
+187,Ada,Danladi,Healthcare,Tertiary,Low,07042384341
+188,Kemi,Nnamdi,Retired,Tertiary,Low,08050460872
+189,Tolu,Bello,Engineering,Tertiary,Low,08062635018
+190,Chinedu,Eze,Business,Secondary,Low,07069963770
+191,Kemi,Danladi,Engineering,Tertiary,Low,08021507692
+192,Bola,Olawale,Retired,Secondary,Low,07056203817
+193,Adamu,Adeyemi,Skilled Trades,Tertiary,Low,08050985492
+194,Ifeanyi,Abdullahi,Unemployed,Secondary,Low,07001628362
+195,Gbenga,Adeyemi,Unemployed,Primary,Low,07070981197
+196,Ada,Olawale,Education,Tertiary,Low,08015542154
+197,Bola,Danladi,Unemployed,Primary,Low,07032525692
+198,Fatima,Balogun,Retired,Secondary,Low,08041742046
+199,Amara,Adenuga,Retired,Primary,Low,07035819858
+200,Isioma,Okeke,Engineering,Tertiary,Low,07082951132
+201,Bola,Bello,Business,Secondary,Low,07084393017
+202,Adamu,Danladi,Business,Primary,Low,07085470421
+203,Yusuf,Umar,Service Industry,Tertiary,Low,08017866034
+204,Adamu,Nnamdi,Engineering,Tertiary,Low,07066448531
+205,Isioma,Adeyemi,Skilled Trades,Secondary,Low,07068718111
+206,Chinedu,Nnamdi,Engineering,Tertiary,Low,08037788098
+207,Adebayo,Adebayo,Business,Secondary,Low,08057824351
+208,Amara,Abdullahi,Healthcare,Tertiary,Low,08023148990
+209,Isioma,Abimbola,Unemployed,Primary,Low,07045911016
+210,Olu,Adenuga,Unemployed,Secondary,Low,08006954716
+211,Funke,Adebayo,Retired,Primary,Low,08020646911
+212,Adebayo,Olawale,Engineering,Tertiary,Low,07027822376
+213,Fatima,Okeke,Engineering,Tertiary,Low,07079746959
+214,Chinedu,Abimbola,Healthcare,Tertiary,Low,08036865800
+215,Adebayo,Nnamdi,Education,Tertiary,Low,07099829483
+216,Olu,Balogun,Unemployed,Primary,Low,07063596127
+217,Obinna,Danladi,Engineering,Tertiary,Low,07090601492
+218,Tolu,Balogun,Engineering,Tertiary,Low,08055767014
+219,Ibrahim,Adenuga,Technology,Tertiary,Low,07001706455
+220,Gbenga,Balogun,Business,Secondary,Low,08032392091
+221,Obinna,Eze,Retired,Primary,Low,07008237489
+222,Ibrahim,Adebayo,Business,Tertiary,Low,08016815694
+223,Bola,Nnamdi,Engineering,Tertiary,Low,08046424173
+224,Adebayo,Abdullahi,Retired,Primary,Low,08076898108
+225,Gbenga,Abimbola,Education,Tertiary,Low,08023039376
+226,Ifeanyi,Abdullahi,Healthcare,Tertiary,Low,08054826195
+227,Funke,Bello,Technology,Tertiary,Low,08037334317
+228,Kemi,Adeyemi,Service Industry,Tertiary,Low,08008215465
+229,Adamu,Danladi,Technology,Tertiary,Low,07092138271
+230,Bola,Abimbola,Unemployed,Primary,Low,08057413593
+231,Amara,Umar,Skilled Trades,Secondary,Low,08009663844
+232,Ifeanyi,Eze,Skilled Trades,Primary,Low,08043447873
+233,Ada,Adebayo,Education,Tertiary,Low,07078139435
+234,Obinna,Balogun,Service Industry,Secondary,Low,07061857475
+235,Tolu,Adenuga,Healthcare,Tertiary,Low,07019111089
+236,Gbenga,Olawale,Service Industry,Primary,Low,08065395260
+237,Fatima,Bello,Technology,Tertiary,Low,08041951349
+238,Obinna,Okeke,Engineering,Tertiary,Low,08048077113
+239,Ada,Danladi,Retired,Secondary,Low,08056768367
+240,Ada,Abdullahi,Business,Secondary,Low,08038062941
+241,Bola,Abdullahi,Service Industry,Tertiary,Low,07058043919
+242,Fatima,Eze,Engineering,Tertiary,Low,08073581028
+243,Bola,Adeyemi,Skilled Trades,Primary,Low,07002339522
+244,Adamu,Adebayo,Skilled Trades,Secondary,Low,07071713722
+245,Olu,Aliyu,Technology,Tertiary,Low,08004824561
+246,Yusuf,Aliyu,Retired,Secondary,Low,07006347399
+247,Amara,Adenuga,Engineering,Tertiary,Low,07087145189
+248,Adamu,Aliyu,Engineering,Tertiary,Low,08082669136
+249,Tolu,Umar,Education,Tertiary,Low,07033240499
+250,Bola,Bello,Healthcare,Tertiary,Low,07014335068
+251,Ada,Abimbola,Technology,Tertiary,Low,07036079580
+252,Chinedu,Umar,Engineering,Tertiary,Low,08012922633
+253,Tolu,Aliyu,Skilled Trades,Primary,Low,07044532190
+254,Bola,Umar,Service Industry,Primary,Low,07024436783
+255,Ngozi,Abdullahi,Healthcare,Tertiary,Low,08063578683
+256,Gbenga,Umar,Unemployed,Tertiary,Low,07023835718
+257,Ifeanyi,Umar,Education,Tertiary,Low,07054352361
+258,Tolu,Adenuga,Service Industry,Secondary,Low,07065352178
+259,Fatima,Bello,Business,Primary,Low,08058725367
+260,Kemi,Olawale,Retired,Secondary,Low,08097655073
+261,Chinaza,Olawale,Skilled Trades,Tertiary,Low,07034436475
+262,Ifeanyi,Aliyu,Engineering,Tertiary,Low,07040207460
+263,Ngozi,Nnamdi,Education,Tertiary,Low,08072643300
+264,Fatima,Aliyu,Skilled Trades,Primary,Low,08018826315
+265,Kemi,Okeke,Service Industry,Primary,Low,08023885349
+266,Ahmed,Nnamdi,Service Industry,Primary,Low,08060290167
+267,Isioma,Olawale,Business,Tertiary,Low,08077046273
+268,Ada,Abdullahi,Skilled Trades,Secondary,Low,08044284269
+269,Chinedu,Adeyemi,Skilled Trades,Primary,Low,07050666275
+270,Olu,Adenuga,Business,Primary,Low,08096657241
+271,Ngozi,Abdullahi,Technology,Tertiary,Low,08016477283
+272,Ahmed,Nnamdi,Technology,Tertiary,Low,07099639596
+273,Obinna,Okeke,Skilled Trades,Tertiary,Low,08054160434
+274,Chinedu,Abdullahi,Healthcare,Tertiary,Low,08071544338
+275,Ibrahim,Okeke,Technology,Tertiary,Low,08087547062
+276,Olu,Bello,Healthcare,Tertiary,Low,08023385740
+277,Chinaza,Balogun,Healthcare,Tertiary,Low,08039717546
+278,Gbenga,Aliyu,Business,Secondary,Low,08000343311
+279,Kemi,Adenuga,Education,Tertiary,Low,07093062442
+280,Chinedu,Adeyemi,Service Industry,Primary,Low,07008868694
+281,Ada,Adebayo,Service Industry,Tertiary,Low,07046149864
+282,Ahmed,Umar,Engineering,Tertiary,Low,08082948290
+283,Funke,Balogun,Healthcare,Tertiary,Low,08080973757
+284,Ifeanyi,Nnamdi,Engineering,Tertiary,Low,08008039968
+285,Tolu,Aliyu,Education,Tertiary,Low,08037529857
+286,Adamu,Eze,Unemployed,Tertiary,Low,08032462605
+287,Adamu,Aliyu,Service Industry,Secondary,Low,08099137100
+288,Kemi,Aliyu,Retired,Tertiary,Low,08066830158
+289,Fatima,Okeke,Engineering,Tertiary,Low,07040757158
+290,Funke,Olawale,Business,Tertiary,Low,08053998452
+291,Chinaza,Abdullahi,Business,Primary,Low,07014159550
+292,Ada,Bello,Education,Tertiary,Low,07057365634
+293,Isioma,Bello,Healthcare,Tertiary,Low,07075154605
+294,Ifeanyi,Okeke,Business,Primary,Low,07044768155
+295,Ifeanyi,Danladi,Technology,Tertiary,Low,08057320531
+296,Chinaza,Eze,Service Industry,Secondary,Low,08093653695
+297,Yusuf,Eze,Retired,Secondary,Low,07020651891
+298,Fatima,Nnamdi,Retired,Primary,Low,08004836182
+299,Fatima,Adebayo,Retired,Primary,Low,07069552775
+300,Isioma,Nnamdi,Education,Tertiary,Low,08075547492
+301,Isioma,Eze,Skilled Trades,Primary,Low,08049072479
+302,Ifeanyi,Adebayo,Healthcare,Tertiary,Low,08017168108
+303,Bola,Adeyemi,Unemployed,Secondary,Low,07021483271
+304,Adebayo,Okeke,Service Industry,Primary,Low,07068258173
+305,Olu,Abdullahi,Engineering,Tertiary,Low,07099066956
+306,Chinedu,Eze,Unemployed,Primary,Low,08031551317
+307,Yusuf,Nnamdi,Unemployed,Primary,Low,07063135797
+308,Ahmed,Abimbola,Unemployed,Secondary,Low,08050773222
+309,Adebayo,Umar,Service Industry,Tertiary,Low,08049723800
+310,Bola,Eze,Engineering,Tertiary,Low,08059768736
+311,Ngozi,Adebayo,Service Industry,Secondary,Low,07044096821
+312,Bola,Olawale,Technology,Tertiary,Low,08007125134
+313,Bola,Bello,Education,Tertiary,Low,07023509899
+314,Ngozi,Okeke,Retired,Primary,Low,08083885788
+315,Ahmed,Abimbola,Skilled Trades,Tertiary,Low,08038089342
+316,Ibrahim,Abimbola,Technology,Tertiary,Low,08071465136
+317,Tolu,Adenuga,Engineering,Tertiary,Low,07034449870
+318,Amara,Eze,Retired,Secondary,Low,07099803735
+319,Funke,Adenuga,Engineering,Tertiary,Low,07014924020
+320,Ahmed,Nnamdi,Engineering,Tertiary,Low,08047427992
+321,Obinna,Danladi,Education,Tertiary,Low,08085036591
+322,Yusuf,Adebayo,Business,Secondary,Low,08065292175
+323,Fatima,Aliyu,Retired,Secondary,Low,08021123806
+324,Kemi,Aliyu,Technology,Tertiary,Low,08007227071
+325,Bola,Okeke,Skilled Trades,Primary,Low,08056765709
+326,Ngozi,Nnamdi,Healthcare,Tertiary,Low,08092039206
+327,Adebayo,Bello,Retired,Primary,Low,07064579284
+328,Tolu,Balogun,Healthcare,Tertiary,Low,07023109289
+329,Olu,Okeke,Healthcare,Tertiary,Low,08014318920
+330,Tolu,Abimbola,Service Industry,Tertiary,Low,07024578810
+331,Gbenga,Aliyu,Education,Tertiary,Low,08064847669
+332,Bola,Olawale,Engineering,Tertiary,Low,08018126695
+333,Funke,Abimbola,Retired,Secondary,Low,07002129377
+334,Ngozi,Balogun,Retired,Secondary,Low,07062354657
+335,Obinna,Aliyu,Business,Secondary,Low,08061158732
+336,Bola,Abimbola,Business,Secondary,Low,07096890637
+337,Bola,Adenuga,Service Industry,Secondary,Low,07061483933
+338,Funke,Eze,Unemployed,Secondary,Low,08020070890
+339,Fatima,Adeyemi,Healthcare,Tertiary,Low,07041513734
+340,Ngozi,Nnamdi,Service Industry,Secondary,Low,08005344748
+341,Ngozi,Adenuga,Retired,Tertiary,Low,07054428782
+342,Isioma,Umar,Unemployed,Primary,Low,07093549736
+343,Ada,Abdullahi,Education,Tertiary,Low,07067652278
+344,Bola,Nnamdi,Education,Tertiary,Low,08031069248
+345,Tolu,Umar,Business,Secondary,Low,08078922375
+346,Chinedu,Nnamdi,Education,Tertiary,Low,07010358861
+347,Olu,Olawale,Education,Tertiary,Low,08022109836
+348,Tolu,Aliyu,Engineering,Tertiary,Low,07013675882
+349,Obinna,Adenuga,Service Industry,Primary,Low,08079443626
+350,Adamu,Adebayo,Unemployed,Primary,Low,08044542704
+351,Tolu,Nnamdi,Skilled Trades,Primary,Medium,07059050300
+352,Adebayo,Balogun,Healthcare,Tertiary,Medium,08044911046
+353,Chinaza,Adeyemi,Unemployed,Secondary,Medium,08006549165
+354,Ahmed,Bello,Skilled Trades,Primary,Medium,07026703655
+355,Fatima,Umar,Education,Tertiary,Medium,07015859479
+356,Chinedu,Aliyu,Service Industry,Primary,Medium,08072469040
+357,Funke,Nnamdi,Skilled Trades,Primary,Medium,07015753088
+358,Tolu,Olawale,Technology,Tertiary,Medium,07057733135
+359,Ifeanyi,Abimbola,Retired,Tertiary,Medium,07055303340
+360,Olu,Adebayo,Engineering,Tertiary,Medium,07033697885
+361,Gbenga,Nnamdi,Skilled Trades,Tertiary,Medium,07033265393
+362,Obinna,Eze,Healthcare,Tertiary,Medium,08018963717
+363,Ifeanyi,Olawale,Service Industry,Secondary,Medium,07066098590
+364,Adamu,Balogun,Service Industry,Tertiary,Medium,07001758802
+365,Tolu,Nnamdi,Technology,Tertiary,Medium,08096149557
+366,Fatima,Abdullahi,Technology,Tertiary,Medium,08073971745
+367,Tolu,Umar,Retired,Primary,Medium,08052087153
+368,Ibrahim,Umar,Service Industry,Secondary,Medium,07083979989
+369,Funke,Okeke,Unemployed,Primary,Medium,08025727678
+370,Chinaza,Adeyemi,Technology,Tertiary,Medium,07011203902
+371,Adamu,Adeyemi,Retired,Primary,Medium,08057934413
+372,Isioma,Balogun,Healthcare,Tertiary,Medium,08011628753
+373,Ada,Adebayo,Service Industry,Secondary,Medium,08053369952
+374,Yusuf,Adenuga,Business,Secondary,Medium,07064097474
+375,Isioma,Adenuga,Engineering,Tertiary,Medium,08005970997
+376,Amara,Olawale,Skilled Trades,Secondary,Medium,08075615912
+377,Ifeanyi,Abdullahi,Education,Tertiary,Medium,08054789795
+378,Obinna,Bello,Healthcare,Tertiary,Medium,07097882630
+379,Tolu,Adebayo,Education,Tertiary,Medium,08057205661
+380,Gbenga,Adebayo,Service Industry,Secondary,Medium,08054237282
+381,Chinedu,Abimbola,Education,Tertiary,Medium,07077715104
+382,Fatima,Umar,Education,Tertiary,Medium,07095612788
+383,Isioma,Eze,Skilled Trades,Tertiary,Medium,07017564002
+384,Chinaza,Nnamdi,Retired,Secondary,Medium,08022538704
+385,Ada,Adenuga,Retired,Secondary,Medium,08099762420
+386,Gbenga,Olawale,Business,Secondary,Medium,08073316098
+387,Amara,Olawale,Technology,Tertiary,Medium,07047624863
+388,Tolu,Abdullahi,Business,Primary,Medium,07051630006
+389,Adebayo,Abdullahi,Business,Primary,Medium,08095183028
+390,Tolu,Aliyu,Retired,Primary,Medium,07023475313
+391,Adebayo,Abdullahi,Skilled Trades,Secondary,Medium,08088086364
+392,Bola,Eze,Business,Primary,Medium,07066640411
+393,Ahmed,Nnamdi,Technology,Tertiary,Medium,07037172969
+394,Kemi,Olawale,Retired,Tertiary,Medium,07082533214
+395,Obinna,Okeke,Education,Tertiary,Medium,07054481754
+396,Isioma,Adenuga,Retired,Primary,Medium,07023806592
+397,Gbenga,Olawale,Engineering,Tertiary,Medium,08099113736
+398,Olu,Umar,Retired,Primary,Medium,08002966276
+399,Bola,Umar,Technology,Tertiary,Medium,08080953360
+400,Ada,Danladi,Business,Tertiary,Medium,08098262848
+401,Adebayo,Danladi,Skilled Trades,Tertiary,Medium,08033715192
+402,Obinna,Adebayo,Education,Tertiary,Medium,08065287749
+403,Funke,Abimbola,Education,Tertiary,Medium,07072226968
+404,Yusuf,Nnamdi,Business,Tertiary,Medium,07028701916
+405,Chinedu,Danladi,Engineering,Tertiary,Medium,07005040587
+406,Obinna,Aliyu,Healthcare,Tertiary,Medium,08016419433
+407,Funke,Okeke,Unemployed,Secondary,Medium,08068057842
+408,Kemi,Abdullahi,Service Industry,Primary,Medium,08086718371
+409,Chinaza,Danladi,Healthcare,Tertiary,Medium,08079691027
+410,Obinna,Nnamdi,Retired,Tertiary,Medium,07065436319
+411,Gbenga,Abimbola,Technology,Tertiary,Medium,08007244084
+412,Yusuf,Bello,Education,Tertiary,Medium,08038033776
+413,Adamu,Adebayo,Unemployed,Primary,Medium,07084379953
+414,Adamu,Adeyemi,Engineering,Tertiary,Medium,07022813608
+415,Chinaza,Adebayo,Skilled Trades,Primary,Medium,08064439191
+416,Ada,Abimbola,Business,Primary,Medium,07057152434
+417,Obinna,Olawale,Service Industry,Primary,Medium,07030083061
+418,Gbenga,Olawale,Retired,Secondary,Medium,08054035243
+419,Funke,Aliyu,Retired,Tertiary,Medium,07065027765
+420,Isioma,Olawale,Business,Secondary,Medium,08096523631
+421,Ngozi,Adeyemi,Engineering,Tertiary,Medium,07088659784
+422,Kemi,Adeyemi,Education,Tertiary,Medium,08000859867
+423,Bola,Balogun,Retired,Tertiary,Medium,08020323634
+424,Kemi,Bello,Healthcare,Tertiary,Medium,07014078377
+425,Ibrahim,Eze,Service Industry,Secondary,Medium,07033857099
+426,Ahmed,Aliyu,Education,Tertiary,Medium,07002306806
+427,Ada,Aliyu,Skilled Trades,Primary,Medium,08057930969
+428,Ibrahim,Adebayo,Retired,Secondary,Medium,08081201783
+429,Fatima,Abimbola,Healthcare,Tertiary,Medium,08022980874
+430,Gbenga,Adeyemi,Skilled Trades,Secondary,Medium,08019194299
+431,Chinedu,Okeke,Business,Primary,Medium,08015013353
+432,Chinaza,Danladi,Skilled Trades,Primary,Medium,07014564025
+433,Ahmed,Bello,Retired,Primary,Medium,07049885033
+434,Olu,Adenuga,Education,Tertiary,Medium,07060370821
+435,Obinna,Bello,Service Industry,Primary,Medium,08034476246
+436,Ibrahim,Adeyemi,Education,Tertiary,Medium,07076196976
+437,Ahmed,Nnamdi,Education,Tertiary,Medium,08023019694
+438,Yusuf,Danladi,Unemployed,Tertiary,Medium,08011923838
+439,Yusuf,Nnamdi,Healthcare,Tertiary,Medium,07097928487
+440,Obinna,Adebayo,Retired,Secondary,Medium,07081761588
+441,Ibrahim,Aliyu,Technology,Tertiary,Medium,07040886019
+442,Chinaza,Umar,Engineering,Tertiary,Medium,08040412306
+443,Chinaza,Danladi,Education,Tertiary,Medium,07063117809
+444,Gbenga,Bello,Retired,Tertiary,Medium,08060928505
+445,Ngozi,Danladi,Technology,Tertiary,Medium,08005264997
+446,Chinaza,Eze,Engineering,Tertiary,Medium,08010341909
+447,Yusuf,Bello,Healthcare,Tertiary,Medium,08056177796
+448,Ibrahim,Danladi,Business,Primary,Medium,07056369590
+449,Gbenga,Danladi,Technology,Tertiary,Medium,08038532624
+450,Tolu,Bello,Business,Secondary,Medium,08050286037
+451,Ahmed,Nnamdi,Engineering,Tertiary,Medium,07033783981
+452,Olu,Adebayo,Unemployed,Secondary,Medium,08087114447
+453,Bola,Nnamdi,Unemployed,Secondary,Medium,08057690478
+454,Amara,Danladi,Skilled Trades,Primary,Medium,08002522235
+455,Ada,Aliyu,Business,Primary,Medium,07073600126
+456,Ada,Adebayo,Skilled Trades,Secondary,Medium,08000643886
+457,Yusuf,Okeke,Technology,Tertiary,Medium,08025815110
+458,Ada,Olawale,Skilled Trades,Primary,Medium,08073815630
+459,Chinedu,Eze,Technology,Tertiary,Medium,08071968799
+460,Isioma,Okeke,Engineering,Tertiary,Medium,08056792187
+461,Yusuf,Adebayo,Healthcare,Tertiary,Medium,07015533606
+462,Olu,Aliyu,Skilled Trades,Secondary,Medium,07074940003
+463,Amara,Bello,Skilled Trades,Secondary,Medium,08094441527
+464,Gbenga,Danladi,Healthcare,Tertiary,Medium,08011621912
+465,Fatima,Adebayo,Engineering,Tertiary,Medium,08002215642
+466,Ifeanyi,Adenuga,Unemployed,Secondary,Medium,08011820016
+467,Adebayo,Nnamdi,Retired,Primary,Medium,08076590906
+468,Ahmed,Nnamdi,Retired,Primary,Medium,08027580217
+469,Olu,Aliyu,Engineering,Tertiary,Medium,08052008314
+470,Chinedu,Abimbola,Service Industry,Primary,Medium,08035685345
+471,Gbenga,Bello,Retired,Secondary,Medium,08035083456
+472,Obinna,Danladi,Education,Tertiary,Medium,08064331157
+473,Chinedu,Adeyemi,Engineering,Tertiary,Medium,08040336588
+474,Ahmed,Abdullahi,Service Industry,Primary,Medium,07036840874
+475,Fatima,Umar,Business,Primary,Medium,08021162525
+476,Ngozi,Balogun,Education,Tertiary,Medium,08084729729
+477,Chinaza,Aliyu,Education,Tertiary,Medium,07084458727
+478,Fatima,Eze,Business,Primary,Medium,07014250565
+479,Amara,Umar,Skilled Trades,Tertiary,Medium,08080119023
+480,Ngozi,Okeke,Healthcare,Tertiary,Medium,08038956709
+481,Funke,Adeyemi,Retired,Primary,Medium,07023557709
+482,Ahmed,Adenuga,Service Industry,Secondary,Medium,07004990811
+483,Funke,Danladi,Business,Tertiary,Medium,08073943981
+484,Bola,Olawale,Service Industry,Secondary,Medium,08014840702
+485,Ngozi,Adeyemi,Retired,Tertiary,Medium,07018106083
+486,Ngozi,Abdullahi,Retired,Primary,Medium,07069229402
+487,Bola,Bello,Healthcare,Tertiary,Medium,08093891056
+488,Olu,Abimbola,Service Industry,Secondary,Medium,07051137147
+489,Chinaza,Aliyu,Technology,Tertiary,Medium,07074538795
+490,Ngozi,Abdullahi,Engineering,Tertiary,Medium,07017744700
+491,Obinna,Abimbola,Healthcare,Tertiary,Medium,07069703629
+492,Chinaza,Olawale,Retired,Secondary,Medium,08028024674
+493,Isioma,Abdullahi,Engineering,Tertiary,Medium,07033548321
+494,Ngozi,Adeyemi,Business,Primary,Medium,07072781090
+495,Tolu,Nnamdi,Engineering,Tertiary,Medium,07094746117
+496,Ibrahim,Adebayo,Service Industry,Tertiary,Medium,07096327961
+497,Ada,Okeke,Engineering,Tertiary,Medium,08089914669
+498,Obinna,Okeke,Service Industry,Primary,Medium,07030392500
+499,Fatima,Eze,Technology,Tertiary,Medium,07039734678
+500,Adebayo,Bello,Skilled Trades,Tertiary,Medium,08088582440
+501,Obinna,Aliyu,Healthcare,Tertiary,Medium,07034317826
+502,Olu,Eze,Service Industry,Primary,Medium,08010877406
+503,Ada,Nnamdi,Unemployed,Primary,Medium,07079918574
+504,Kemi,Bello,Retired,Primary,Medium,08003397997
+505,Ibrahim,Bello,Retired,Secondary,Medium,08015968733
+506,Isioma,Olawale,Unemployed,Primary,Medium,07041218897
+507,Kemi,Abdullahi,Service Industry,Primary,Medium,08052430725
+508,Chinaza,Adenuga,Technology,Tertiary,Medium,07008215893
+509,Gbenga,Umar,Engineering,Tertiary,Medium,08013786066
+510,Chinedu,Adebayo,Education,Tertiary,Medium,07049988850
+511,Olu,Eze,Retired,Primary,Medium,07087405113
+512,Bola,Bello,Skilled Trades,Primary,Medium,08057943955
+513,Funke,Aliyu,Engineering,Tertiary,Medium,07054175489
+514,Amara,Abdullahi,Service Industry,Secondary,Medium,07050450570
+515,Kemi,Adenuga,Engineering,Tertiary,Medium,08005936166
+516,Kemi,Eze,Engineering,Tertiary,Medium,08064455220
+517,Funke,Abimbola,Retired,Tertiary,Medium,08069737855
+518,Adamu,Adeyemi,Technology,Tertiary,Medium,08077128553
+519,Adamu,Olawale,Healthcare,Tertiary,Medium,08035834980
+520,Yusuf,Okeke,Unemployed,Tertiary,Medium,08053369680
+521,Isioma,Danladi,Education,Tertiary,Medium,08038508347
+522,Ibrahim,Nnamdi,Unemployed,Primary,Medium,08048700089
+523,Ifeanyi,Okeke,Education,Tertiary,Medium,08029529470
+524,Adebayo,Adebayo,Service Industry,Secondary,Medium,08055533988
+525,Isioma,Abimbola,Unemployed,Secondary,Medium,08003168550
+526,Bola,Umar,Engineering,Tertiary,High,07035660490
+527,Ada,Aliyu,Healthcare,Tertiary,High,08043049646
+528,Bola,Abimbola,Retired,Primary,High,08055265949
+529,Kemi,Okeke,Retired,Secondary,High,07030720645
+530,Adamu,Adeyemi,Business,Secondary,High,08080783026
+531,Chinedu,Umar,Business,Secondary,High,08000819709
+532,Ibrahim,Adebayo,Service Industry,Primary,High,08075633562
+533,Olu,Danladi,Healthcare,Tertiary,High,07054972797
+534,Funke,Okeke,Retired,Secondary,High,08098914859
+535,Adamu,Abimbola,Healthcare,Tertiary,High,08098796442
+536,Olu,Aliyu,Education,Tertiary,High,07020844349
+537,Ifeanyi,Adeyemi,Technology,Tertiary,High,08048422786
+538,Ibrahim,Nnamdi,Retired,Secondary,High,08080813380
+539,Ifeanyi,Eze,Engineering,Tertiary,High,08074250229
+540,Tolu,Aliyu,Skilled Trades,Secondary,High,07080734545
+541,Funke,Bello,Technology,Tertiary,High,08070449615
+542,Fatima,Nnamdi,Engineering,Tertiary,High,08019369195
+543,Ahmed,Okeke,Healthcare,Tertiary,High,07091313762
+544,Chinedu,Danladi,Technology,Tertiary,High,07059793842
+545,Ahmed,Olawale,Business,Secondary,High,08097355321
+546,Isioma,Nnamdi,Healthcare,Tertiary,High,08083968306
+547,Amara,Abimbola,Healthcare,Tertiary,High,08030073265
+548,Fatima,Adeyemi,Service Industry,Secondary,High,08008863651
+549,Amara,Adeyemi,Business,Primary,High,07041623051
+550,Yusuf,Umar,Engineering,Tertiary,High,07091629947
+551,Ahmed,Adenuga,Healthcare,Tertiary,High,08053621439
+552,Ahmed,Bello,Skilled Trades,Primary,High,08092596728
+553,Yusuf,Umar,Service Industry,Primary,High,07078540896
+554,Ngozi,Adeyemi,Service Industry,Primary,High,07085875342
+555,Tolu,Umar,Business,Secondary,High,07035069243
+556,Ada,Abimbola,Healthcare,Tertiary,High,08004400463
+557,Ifeanyi,Adeyemi,Healthcare,Tertiary,High,07029814648
+558,Gbenga,Olawale,Technology,Tertiary,High,08020765811
+559,Ifeanyi,Umar,Education,Tertiary,High,08048016699
+560,Ifeanyi,Umar,Engineering,Tertiary,High,08024288548
+561,Obinna,Adebayo,Skilled Trades,Tertiary,High,07017999538
+562,Kemi,Adenuga,Retired,Secondary,High,08025279289
+563,Olu,Bello,Retired,Secondary,High,07012801450
+564,Gbenga,Danladi,Technology,Tertiary,High,07082379991
+565,Adamu,Olawale,Unemployed,Secondary,High,07050440655
+566,Obinna,Danladi,Skilled Trades,Secondary,High,07066170164
+567,Bola,Abimbola,Retired,Primary,High,07015302377
+568,Adamu,Danladi,Engineering,Tertiary,High,08017328138
+569,Fatima,Abimbola,Engineering,Tertiary,High,07092849674
+570,Isioma,Okeke,Unemployed,Secondary,High,08064216843
+571,Amara,Olawale,Healthcare,Tertiary,High,07054056781
+572,Tolu,Aliyu,Unemployed,Secondary,High,07027909809
+573,Ada,Nnamdi,Education,Tertiary,High,08045843527
+574,Bola,Nnamdi,Technology,Tertiary,High,07000584545
+575,Chinaza,Abdullahi,Skilled Trades,Primary,High,07010197410
+576,Obinna,Okeke,Education,Tertiary,High,08010688165
+577,Bola,Adenuga,Engineering,Tertiary,High,08028155979
+578,Fatima,Abimbola,Technology,Tertiary,High,07071188781
+579,Gbenga,Abdullahi,Healthcare,Tertiary,High,07044812590
+580,Yusuf,Nnamdi,Healthcare,Tertiary,High,07003316085
+581,Ibrahim,Abdullahi,Business,Primary,High,08037245240
+582,Gbenga,Balogun,Technology,Tertiary,High,07034698209
+583,Isioma,Adenuga,Business,Primary,High,07043663589
+584,Ada,Adenuga,Skilled Trades,Primary,High,08047684948
+585,Ahmed,Adeyemi,Education,Tertiary,High,07062489847
+586,Funke,Okeke,Healthcare,Tertiary,High,08025514630
+587,Obinna,Eze,Healthcare,Tertiary,High,07052215151
+588,Amara,Umar,Skilled Trades,Primary,High,07030211190
+589,Tolu,Adeyemi,Skilled Trades,Secondary,High,08050907681
+590,Obinna,Bello,Technology,Tertiary,High,08049139743
+591,Isioma,Danladi,Business,Secondary,High,08052149495
+592,Isioma,Olawale,Engineering,Tertiary,High,07062111374
+593,Adebayo,Olawale,Service Industry,Tertiary,High,08067513999
+594,Yusuf,Bello,Technology,Tertiary,High,08075548446
+595,Olu,Abdullahi,Education,Tertiary,High,07085797611
+596,Chinedu,Balogun,Technology,Tertiary,High,07061482198
+597,Ada,Adenuga,Business,Primary,High,07062144227
+598,Fatima,Balogun,Unemployed,Secondary,High,08049171410
+599,Ifeanyi,Olawale,Engineering,Tertiary,High,08008817359
+600,Gbenga,Adebayo,Engineering,Tertiary,High,08079454687
